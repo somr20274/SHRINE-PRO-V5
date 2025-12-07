@@ -719,6 +719,54 @@
         "de158e68-5d0d-4819-a625-e2dabdff87d1": {
           "type": "collapsible_tab",
           "settings": {
+            "heading": "Who is this oil for?",
+            "heading_size": "medium",
+            "icon": "check_box",
+            "filled_icon": false,
+            "collapse_icon": "carret",
+            "display_top_border": true,
+            "open": false,
+            "content": "<p>VEINAA was designed for women experiencing:</p><ul><li>Thinning edges or traction alopecia<br/></li><li>Breakage from wigs, braids, or tight styles<br/></li><li>Postpartum shedding<br/></li><li>Dry, itchy, or irritated scalp<br/></li><li>Slow or stagnant growth<br/></li></ul><p>If your hairline needs strengthening and revival — VEINAA is for you.</p>",
+            "page": "",
+            "margin_top": 24,
+            "margin_bottom": 0
+          }
+        },
+        "collapsible_tab_RryeUb": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "How fast will I see results ?",
+            "heading_size": "medium",
+            "icon": "check_box",
+            "filled_icon": false,
+            "collapse_icon": "carret",
+            "display_top_border": true,
+            "open": false,
+            "content": "<p>Most users notice <strong>less shedding within 6 weeks</strong> and visible regrowth between <strong>8 and 10 weeks</strong> with consistent use.<br/><br/>Results vary based on scalp condition and hair habits, but steady improvement is expected with daily or 3–4x/week application.</p>",
+            "page": "",
+            "margin_top": 24,
+            "margin_bottom": 0
+          }
+        },
+        "collapsible_tab_iVEjdC": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Collapsible row",
+            "heading_size": "medium",
+            "icon": "check_box",
+            "filled_icon": false,
+            "collapse_icon": "carret",
+            "display_top_border": true,
+            "open": false,
+            "content": "",
+            "page": "",
+            "margin_top": 24,
+            "margin_bottom": 0
+          }
+        },
+        "collapsible_tab_tggUkb": {
+          "type": "collapsible_tab",
+          "settings": {
             "heading": "Collapsible row",
             "heading_size": "medium",
             "icon": "check_box",
@@ -747,7 +795,10 @@
         "e7a28cbe-03cb-4c9d-a2c4-0e3e76ffb3e5",
         "description",
         "reviews_8UgFbe",
-        "de158e68-5d0d-4819-a625-e2dabdff87d1"
+        "de158e68-5d0d-4819-a625-e2dabdff87d1",
+        "collapsible_tab_RryeUb",
+        "collapsible_tab_iVEjdC",
+        "collapsible_tab_tggUkb"
       ],
       "custom_css": [],
       "settings": {
