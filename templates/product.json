@@ -767,14 +767,14 @@
         "collapsible_tab_tggUkb": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Shipping & 90-Day Money-Back Guarantee",
             "heading_size": "medium",
             "icon": "check_box",
             "filled_icon": false,
             "collapse_icon": "carret",
             "display_top_border": true,
             "open": false,
-            "content": "",
+            "content": "<p><strong>Fast & Secure Delivery</strong><br/><br/>All VEINAA orders are processed within <strong>24–48 hours</strong> and shipped with tracking.</p><ul><li><br/><strong>UK Standard Delivery:</strong> 2–4 business days</li></ul><h5> <strong>90-Day Money-Back Guarantee</strong></h5><p>We want you to feel confident trying VEINAA.</p><p>That’s why every order comes with a <strong>90-Day Satisfaction Guarantee</strong>.</p><p><strong>If you don’t see visible improvement in your edges, temples, or overall scalp health within 90 days, simply contact us and we’ll refund your order — no hassle, no questions asked.</strong></p><p>We stand behind the quality of our formula and the results it delivers.</p><p>Try VEINAA risk-free, with complete peace of mind.</p>",
             "page": "",
             "margin_top": 24,
             "margin_bottom": 0
