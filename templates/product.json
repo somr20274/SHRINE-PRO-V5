@@ -873,7 +873,7 @@
         "heading_PpiXVT": {
           "type": "heading",
           "settings": {
-            "title": "Image with text",
+            "title": "What to Expect",
             "title_highlight_color": "#6D388B",
             "heading_size": "h1"
           }
@@ -881,7 +881,7 @@
         "text_8PAeQd": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<h3>Week 1–2</h3><p>Less shedding. Scalp feels calmer and more balanced.</p><h3>Week 3–4</h3><p>Early regrowth visible around edges & temples.</p><h3>Week 6–8</h3><p>Stronger, healthier, fuller-looking hairline with consistent use.</p><p>Consistency = transformation.</p>",
             "text_style": "body"
           }
         }
@@ -909,7 +909,7 @@
         "mobile_full_media_width": false,
         "mobile_direction": "normal",
         "mobile_image_quanlity": "2",
-        "mobile_content_alignment": "left",
+        "mobile_content_alignment": "center",
         "mobile_padding_top": 0,
         "mobile_padding_bottom": 16,
         "desktop_padding_top": 36,
