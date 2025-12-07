@@ -924,6 +924,63 @@
         "custom_section_gradient_background": ""
       }
     },
+    "image_with_text_hWtVKy": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_GBA6bL": {
+          "type": "heading",
+          "settings": {
+            "title": "What to Expect",
+            "title_highlight_color": "#6D388B",
+            "heading_size": "h1"
+          }
+        },
+        "text_c9JLJx": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>Week 1–2</h3><p>Less shedding. Scalp feels calmer and more balanced.</p><h3>Week 3–4</h3><p>Early regrowth visible around edges & temples.</p><h3>Week 6–8</h3><p>Stronger, healthier, fuller-looking hairline with consistent use.</p><p>Consistency = transformation.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_GBA6bL",
+        "text_c9JLJx"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "image": "shopify://shop_images/35319045-ai-genere-noir-femme-medecin-isole-sur-le-blanc-contexte-copie-espace-dei-deib-concept-photo.jpg",
+        "video_autoplay": true,
+        "video_loop": true,
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "section_color_scheme": "background-1",
+        "full_desktop_width": false,
+        "content_layout": "no-overlap",
+        "desktop_media_width": 50,
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_full_media_width": false,
+        "mobile_direction": "normal",
+        "mobile_image_quanlity": "2",
+        "mobile_content_alignment": "center",
+        "mobile_padding_top": 0,
+        "mobile_padding_bottom": 16,
+        "desktop_padding_top": 36,
+        "desktop_padding_bottom": 36,
+        "custom_colors_background": "#2E2A39",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#FFFFFF",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d",
+        "custom_section_colors_background": "#FFFFFF",
+        "custom_section_gradient_background": ""
+      }
+    },
     "4fc05ee5-1c30-4863-b88f-81cb6fa7c41a": {
       "type": "icons-with-content",
       "blocks": {
@@ -1118,6 +1175,7 @@
     "main",
     "related-products",
     "image_with_text_eJwUbz",
+    "image_with_text_hWtVKy",
     "4fc05ee5-1c30-4863-b88f-81cb6fa7c41a",
     "55bd100e-3bbd-426c-a5cf-eed7b2a3706f",
     "b321ab88-2b59-4dba-bade-54885c874ca5"
