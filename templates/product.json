@@ -867,37 +867,61 @@
         "padding_bottom": 24
       }
     },
-    "comparison_slider_8iQjk7": {
-      "type": "comparison-slider",
-      "name": "Before & After slider",
+    "image_with_text_eJwUbz": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_PpiXVT": {
+          "type": "heading",
+          "settings": {
+            "title": "Image with text",
+            "title_highlight_color": "#6D388B",
+            "heading_size": "h1"
+          }
+        },
+        "text_8PAeQd": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_PpiXVT",
+        "text_8PAeQd"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "title": "Before & After slider",
-        "title_highlight_color": "#6D388B",
-        "heading_size": "h1",
-        "text": "<p>Highlight key differences between before and after using your product.</p>",
-        "button_label": "",
-        "link": "",
-        "button_style_secondary": false,
-        "atc_button_label": "",
-        "atc_product": "",
-        "atc_skip_cart": false,
+        "image": "shopify://shop_images/3cfefd38-55bf-4904-bec4-8d29efab7087.png",
+        "video_autoplay": true,
+        "video_loop": true,
+        "height": "adapt",
         "color_scheme": "background-1",
-        "layout": "slider_second",
-        "before_label": "Before",
-        "after_label": "After",
-        "labels_color_scheme": "accent-1",
-        "line_color": "background-1",
-        "arrows_style": "circle",
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "custom_colors_background": "#FFFFFF",
+        "section_color_scheme": "background-1",
+        "full_desktop_width": false,
+        "content_layout": "no-overlap",
+        "desktop_media_width": 50,
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_full_media_width": false,
+        "mobile_direction": "normal",
+        "mobile_image_quanlity": "2",
+        "mobile_content_alignment": "left",
+        "mobile_padding_top": 0,
+        "mobile_padding_bottom": 16,
+        "desktop_padding_top": 36,
+        "desktop_padding_bottom": 36,
+        "custom_colors_background": "#2E2A39",
         "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39",
+        "custom_colors_text": "#FFFFFF",
         "custom_colors_solid_button_background": "#dd1d1d",
         "custom_colors_solid_button_text": "#ffffff",
-        "custom_colors_outline_button": "#dd1d1d"
+        "custom_colors_outline_button": "#dd1d1d",
+        "custom_section_colors_background": "#FFFFFF",
+        "custom_section_gradient_background": ""
       }
     },
     "8beb6911-28c6-482c-976a-e5421ad3e8df": {
@@ -1345,7 +1369,7 @@
     "image_slider_T9QQLt",
     "main",
     "related-products",
-    "comparison_slider_8iQjk7",
+    "image_with_text_eJwUbz",
     "8beb6911-28c6-482c-976a-e5421ad3e8df",
     "eba88da5-80ac-47fc-aa75-997cfe7b2e59",
     "4fc05ee5-1c30-4863-b88f-81cb6fa7c41a",
