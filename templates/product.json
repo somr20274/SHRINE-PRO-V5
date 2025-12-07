@@ -751,14 +751,14 @@
         "collapsible_tab_iVEjdC": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "How do I use it ?",
             "heading_size": "medium",
             "icon": "check_box",
             "filled_icon": false,
             "collapse_icon": "carret",
             "display_top_border": true,
             "open": false,
-            "content": "",
+            "content": "<h2></h2><ol><li>Apply a small amount directly to the scalp using the precision nozzle.<br/></li><li>Focus on thinning areas (edges, temples, crown).<br/></li><li>Massage for 1–2 minutes to activate circulation.<br/></li><li>Use daily or 3–4 times per week.<br/></li><li>Can be used on natural hair, braids, twists, locs, wigs, or silk presses.</li></ol>",
             "page": "",
             "margin_top": 24,
             "margin_bottom": 0
