@@ -621,6 +621,31 @@
             "margin_bottom": 24
           }
         },
+        "payment_badges_XkY8VC": {
+          "type": "payment_badges",
+          "settings": {
+            "enabled_payment_types": "",
+            "margin_top": 15,
+            "margin_bottom": 15
+          }
+        },
+        "estimated_shipping_LApmxB": {
+          "type": "estimated_shipping",
+          "settings": {
+            "icon": "local_shipping",
+            "filled_icon": false,
+            "icon_size": "medium",
+            "icon_alignment": "top",
+            "message": "<p>Get it between <strong>[start_date]</strong> and <strong>[end_date]</strong>.</p>",
+            "min_shipping_days": 5,
+            "max_shipping_days": 10,
+            "date_format": "day_mm_dd",
+            "days_labels": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+            "months_labels": "January, February, March, April, May, June, July, August, September, October, November, December",
+            "margin_top": 24,
+            "margin_bottom": 24
+          }
+        },
         "e7a28cbe-03cb-4c9d-a2c4-0e3e76ffb3e5": {
           "type": "sticky_atc",
           "settings": {
@@ -717,6 +742,8 @@
         "5fcc0428-e768-4cb7-bea3-eb0274198dd1",
         "04ba004e-2f54-4936-8b1c-8bcadf6573f6",
         "buy_buttons",
+        "payment_badges_XkY8VC",
+        "estimated_shipping_LApmxB",
         "e7a28cbe-03cb-4c9d-a2c4-0e3e76ffb3e5",
         "description",
         "reviews_8UgFbe",
