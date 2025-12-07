@@ -867,6 +867,39 @@
         "padding_bottom": 24
       }
     },
+    "comparison_slider_8iQjk7": {
+      "type": "comparison-slider",
+      "name": "Before & After slider",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "Before & After slider",
+        "title_highlight_color": "#6D388B",
+        "heading_size": "h1",
+        "text": "<p>Highlight key differences between before and after using your product.</p>",
+        "button_label": "",
+        "link": "",
+        "button_style_secondary": false,
+        "atc_button_label": "",
+        "atc_product": "",
+        "atc_skip_cart": false,
+        "color_scheme": "background-1",
+        "layout": "slider_second",
+        "before_label": "Before",
+        "after_label": "After",
+        "labels_color_scheme": "accent-1",
+        "line_color": "background-1",
+        "arrows_style": "circle",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d"
+      }
+    },
     "8beb6911-28c6-482c-976a-e5421ad3e8df": {
       "type": "custom-columns",
       "blocks": {
@@ -1312,6 +1345,7 @@
     "image_slider_T9QQLt",
     "main",
     "related-products",
+    "comparison_slider_8iQjk7",
     "8beb6911-28c6-482c-976a-e5421ad3e8df",
     "eba88da5-80ac-47fc-aa75-997cfe7b2e59",
     "4fc05ee5-1c30-4863-b88f-81cb6fa7c41a",
