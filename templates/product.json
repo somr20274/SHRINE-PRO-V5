@@ -396,7 +396,7 @@
         "mobile_padding_calc": true,
         "mobile_adaptive_height": true,
         "mobile_dots_position": "hidden",
-        "mobile_arrows_position": "hidden",
+        "mobile_arrows_position": "sides",
         "padding_top": 36,
         "padding_bottom": 36,
         "custom_colors_background": "#FFFFFF",
