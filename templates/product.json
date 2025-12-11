@@ -15,22 +15,14 @@
         "heading_AXQUTG": {
           "type": "heading",
           "settings": {
-            "title": "Image banner",
+            "title": "A powerful daily formula for visible growth and stronger strands.",
             "title_highlight_color": "#6d388b",
             "heading_size": "h1"
-          }
-        },
-        "text_djtdw8": {
-          "type": "text",
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
           }
         }
       },
       "block_order": [
-        "heading_AXQUTG",
-        "text_djtdw8"
+        "heading_AXQUTG"
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
