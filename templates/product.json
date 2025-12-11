@@ -1079,9 +1079,9 @@
             "bg_star_color": "#c8c8c8",
             "star_symbol_color": "#ffffff",
             "stars_rating": 5,
-            "title": "Heading",
-            "text": "<p>Share positive thoughts and feedback from your customer..</p>",
-            "author": "<em><strong>Author</strong></em>"
+            "title": "My edges are finally coming back!",
+            "text": "<p>I’ve tried so many oils, but this is the only one that actually made my baby hairs grow again. I'm shocked at how fast it worked</p>",
+            "author": "<em><strong>Janelle.M</strong></em>"
           }
         },
         "column_f6ExMt": {
@@ -1091,9 +1091,9 @@
             "bg_star_color": "#c8c8c8",
             "star_symbol_color": "#ffffff",
             "stars_rating": 5,
-            "title": "Heading",
-            "text": "<p>Share positive thoughts and feedback from your customer..</p>",
-            "author": "<em><strong>Author</strong></em>"
+            "title": "Stopped my shedding in a week",
+            "text": "<p>Every time I washed my hair, handfuls would come out. After using this oil daily, the shedding almost disappeared</p>",
+            "author": "<em><strong>Alicia.H</strong></em>"
           }
         },
         "column_i9xbpY": {
@@ -1103,16 +1103,55 @@
             "bg_star_color": "#c8c8c8",
             "star_symbol_color": "#ffffff",
             "stars_rating": 5,
-            "title": "Heading",
-            "text": "<p>Share positive thoughts and feedback from your customer..</p>",
-            "author": "<em><strong>Author</strong></em>"
+            "title": "Love how soothing it feels",
+            "text": "<p>My scalp used to be so itchy and dry. This oil calms it instantly and smells amazing</p>",
+            "author": "<em><strong>Ruth.A</strong></em>"
+          }
+        },
+        "column_9EyzjV": {
+          "type": "column",
+          "settings": {
+            "star_color": "#00b67a",
+            "bg_star_color": "#c8c8c8",
+            "star_symbol_color": "#ffffff",
+            "stars_rating": 5,
+            "title": "Hair looks thicker already",
+            "text": "<p>I wasn’t expecting results this soon, but my crown already looks fuller. Definitely buying again</p>",
+            "author": "<em><strong>Rania.D</strong></em>"
+          }
+        },
+        "column_YLWH3K": {
+          "type": "column",
+          "settings": {
+            "star_color": "#00b67a",
+            "bg_star_color": "#c8c8c8",
+            "star_symbol_color": "#ffffff",
+            "stars_rating": 5,
+            "title": "Perfect for protective styles",
+            "text": "<p>I apply it under my braids and it keeps my scalp hydrated without buildup. My growth has doubled</p>",
+            "author": "<em><strong>Kelly.V</strong></em>"
+          }
+        },
+        "column_MtngQW": {
+          "type": "column",
+          "settings": {
+            "star_color": "#00b67a",
+            "bg_star_color": "#c8c8c8",
+            "star_symbol_color": "#ffffff",
+            "stars_rating": 5,
+            "title": "Finally found something that works",
+            "text": "<p>I've spent so much money on hair growth products… this is the FIRST one that gave real results.</p>",
+            "author": "<em><strong>Karyn.B</strong></em>"
           }
         }
       },
       "block_order": [
         "column_N3nDQx",
         "column_f6ExMt",
-        "column_i9xbpY"
+        "column_i9xbpY",
+        "column_9EyzjV",
+        "column_YLWH3K",
+        "column_MtngQW"
       ],
       "name": "Trustpilot reviews",
       "settings": {
