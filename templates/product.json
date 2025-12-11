@@ -524,12 +524,12 @@
             "atc_append_heights": "stretch-quantity",
             "enable_quantity_discounts": true,
             "style": "normal",
-            "headline": "BUNDLE & SAVE",
+            "headline": "Christmas Offers",
             "preselected": "option_1",
             "display_selected_indicator": true,
             "border_radius": 10,
             "border_width": 2,
-            "color_scheme": "accent-1",
+            "color_scheme": "accent-2",
             "enable_variant_selectors": true,
             "enable_variant_selectors_on_quantity_of_1": true,
             "update_prices": true,
@@ -584,7 +584,7 @@
             "option_3_price_text": "[price]",
             "option_3_compare_price": "compare_price",
             "option_3_compare_price_text": "[compare_price]",
-            "option_4_quantity": 4,
+            "option_4_quantity": 0,
             "option_4_badge": "",
             "option_4_badge_style": "1",
             "option_4_badge_color": "accent-1",
@@ -874,7 +874,7 @@
           "type": "heading",
           "settings": {
             "title": "What to Expect",
-            "title_highlight_color": "#6D388B",
+            "title_highlight_color": "#6d388b",
             "heading_size": "h1"
           }
         },
@@ -914,13 +914,13 @@
         "mobile_padding_bottom": 16,
         "desktop_padding_top": 36,
         "desktop_padding_bottom": 36,
-        "custom_colors_background": "#2E2A39",
+        "custom_colors_background": "#2e2a39",
         "custom_gradient_background": "",
-        "custom_colors_text": "#FFFFFF",
+        "custom_colors_text": "#ffffff",
         "custom_colors_solid_button_background": "#dd1d1d",
         "custom_colors_solid_button_text": "#ffffff",
         "custom_colors_outline_button": "#dd1d1d",
-        "custom_section_colors_background": "#FFFFFF",
+        "custom_section_colors_background": "#ffffff",
         "custom_section_gradient_background": ""
       }
     },
@@ -931,7 +931,7 @@
           "type": "heading",
           "settings": {
             "title": "Dr. Amina Roberts, Specialist in Afro-Textured Hair & Scalp Health",
-            "title_highlight_color": "#6D388B",
+            "title_highlight_color": "#6d388b",
             "heading_size": "h1"
           }
         },
@@ -971,13 +971,13 @@
         "mobile_padding_bottom": 16,
         "desktop_padding_top": 36,
         "desktop_padding_bottom": 36,
-        "custom_colors_background": "#2E2A39",
+        "custom_colors_background": "#2e2a39",
         "custom_gradient_background": "",
-        "custom_colors_text": "#FFFFFF",
+        "custom_colors_text": "#ffffff",
         "custom_colors_solid_button_background": "#dd1d1d",
         "custom_colors_solid_button_text": "#ffffff",
         "custom_colors_outline_button": "#dd1d1d",
-        "custom_section_colors_background": "#FFFFFF",
+        "custom_section_colors_background": "#ffffff",
         "custom_section_gradient_background": ""
       }
     },
@@ -1077,7 +1077,7 @@
           "settings": {
             "star_color": "#00b67a",
             "bg_star_color": "#c8c8c8",
-            "star_symbol_color": "#fff",
+            "star_symbol_color": "#ffffff",
             "stars_rating": 5,
             "title": "Heading",
             "text": "<p>Share positive thoughts and feedback from your customer..</p>",
@@ -1089,7 +1089,7 @@
           "settings": {
             "star_color": "#00b67a",
             "bg_star_color": "#c8c8c8",
-            "star_symbol_color": "#fff",
+            "star_symbol_color": "#ffffff",
             "stars_rating": 5,
             "title": "Heading",
             "text": "<p>Share positive thoughts and feedback from your customer..</p>",
@@ -1101,7 +1101,7 @@
           "settings": {
             "star_color": "#00b67a",
             "bg_star_color": "#c8c8c8",
-            "star_symbol_color": "#fff",
+            "star_symbol_color": "#ffffff",
             "stars_rating": 5,
             "title": "Heading",
             "text": "<p>Share positive thoughts and feedback from your customer..</p>",
@@ -1122,7 +1122,7 @@
         "desktop_content_position": "above",
         "desktop_content_alignment": "center",
         "title": "Trustpilot reviews",
-        "title_highlight_color": "#6D388B",
+        "title_highlight_color": "#6d388b",
         "heading_size": "h1",
         "subtitle": "Excellent [rating] <strong>/ 5</strong> [rating_stars]",
         "subheading_rating_text": "<strong>4.8</strong>",
@@ -1131,7 +1131,7 @@
         "subheading_font": "body",
         "star_color": "#00b67a",
         "bg_star_color": "#c8c8c8",
-        "star_symbol_color": "#fff",
+        "star_symbol_color": "#ffffff",
         "stars_rating": 5,
         "text": "",
         "cards_border_radius": 16,
@@ -1161,12 +1161,12 @@
         "mobile_arrows_position": "under",
         "padding_top": 36,
         "padding_bottom": 36,
-        "custom_colors_background": "#FFFFFF",
+        "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39",
-        "custom_cards_colors_background": "#F3F3F3",
+        "custom_colors_text": "#2e2a39",
+        "custom_cards_colors_background": "#f3f3f3",
         "custom_cards_gradient_background": "",
-        "custom_cards_colors_text": "#2E2A39"
+        "custom_cards_colors_text": "#2e2a39"
       }
     },
     "b321ab88-2b59-4dba-bade-54885c874ca5": {
