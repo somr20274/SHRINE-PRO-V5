@@ -16,6 +16,7 @@
       "blocks": {
         "1c647602-cc00-4009-a058-976435c8ee9e": {
           "type": "link_list",
+          "disabled": true,
           "settings": {
             "heading": "Quick links",
             "menu": "footer",
