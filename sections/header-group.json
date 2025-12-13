@@ -33,7 +33,7 @@
       ],
       "settings": {
         "visibility": "always-display",
-        "speed": 3,
+        "speed": 4.5,
         "direction": "normal",
         "stop_on_hover": false,
         "mobile_spacing": 60,
