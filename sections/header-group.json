@@ -19,10 +19,17 @@
           "settings": {
             "title": "Limited Stock"
           }
+        },
+        "text_KBEYAz": {
+          "type": "text",
+          "settings": {
+            "title": "Last Chance Today"
+          }
         }
       },
       "block_order": [
-        "sections--18060430639399__2c2ec774-3430-481f-b927-e9c035b9d24e-1679250655d32e639c-0"
+        "sections--18060430639399__2c2ec774-3430-481f-b927-e9c035b9d24e-1679250655d32e639c-0",
+        "text_KBEYAz"
       ],
       "settings": {
         "visibility": "always-display",
