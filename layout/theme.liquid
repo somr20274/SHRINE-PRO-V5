@@ -1,3 +1,5 @@
+{{ content_for_header }}
+
 <!-- Meta Pixel Code -->
 <script>
   !function(f,b,e,v,n,t,s)
@@ -9,17 +11,14 @@
   s.parentNode.insertBefore(t,s)}(window, document,'script',
   'https://connect.facebook.net/en_US/fbevents.js');
 
-  fbq('init', '521310901784218'); 
+  fbq('init', '521310901784218');
   fbq('track', 'PageView');
 </script>
-
 <noscript>
   <img height="1" width="1" style="display:none"
   src="https://www.facebook.com/tr?id=521310901784218&ev=PageView&noscript=1"/>
 </noscript>
 <!-- End Meta Pixel Code -->
-<!doctype html>
-<html class="no-js" lang="{{ request.locale.iso_code }}">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
