@@ -712,14 +712,14 @@
         "de158e68-5d0d-4819-a625-e2dabdff87d1": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Who is this oil for?",
+            "heading": "Product Features",
             "heading_size": "medium",
             "icon": "check_box",
             "filled_icon": false,
             "collapse_icon": "carret",
             "display_top_border": true,
             "open": false,
-            "content": "<p>VEINAA was designed for women experiencing:</p><ul><li>Thinning edges or traction alopecia<br/></li><li>Breakage from wigs, braids, or tight styles<br/></li><li>Postpartum shedding<br/></li><li>Dry, itchy, or irritated scalp<br/></li><li>Slow or stagnant growth<br/></li></ul><p>If your hairline needs strengthening and revival — VEINAA is for you.</p>",
+            "content": "<p>Relieves pain like sciatica and tailbone issues with its thick, breathable honeycomb design.<br/><br/>Allows for lumbar support and cooling during long periods of sitting down. Perfect for the office, at home, in the car or wheelchairs.</p>",
             "page": "",
             "margin_top": 24,
             "margin_bottom": 0
@@ -728,14 +728,14 @@
         "collapsible_tab_RryeUb": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "How fast will I see results ?",
+            "heading": "Size dimensions",
             "heading_size": "medium",
             "icon": "check_box",
             "filled_icon": false,
             "collapse_icon": "carret",
             "display_top_border": true,
             "open": false,
-            "content": "<p>Most users notice <strong>less shedding within 6 weeks</strong> and visible regrowth between <strong>8 and 10 weeks</strong> with consistent use.<br/><br/>Results vary based on scalp condition and hair habits, but steady improvement is expected with daily or 3–4x/week application.</p>",
+            "content": "<p>16.5\" x 14.5\" x 1.5\" ; standard sizing made for all purposes</p>",
             "page": "",
             "margin_top": 24,
             "margin_bottom": 0
@@ -744,14 +744,14 @@
         "collapsible_tab_iVEjdC": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "How do I use it ?",
+            "heading": "Care & Instructions",
             "heading_size": "medium",
             "icon": "check_box",
             "filled_icon": false,
             "collapse_icon": "carret",
             "display_top_border": true,
             "open": false,
-            "content": "<h2></h2><ol><li>Apply a small amount directly to the scalp using the precision nozzle.<br/></li><li>Focus on thinning areas (edges, temples, crown).<br/></li><li>Massage for 1–2 minutes to activate circulation.<br/></li><li>Use daily or 3–4 times per week.<br/></li><li>Can be used on natural hair, braids, twists, locs, wigs, or silk presses.</li></ol>",
+            "content": "<p>Do not machine wash ; wipe with wet towel or disinfecting wipes on a as needed basis.</p>",
             "page": "",
             "margin_top": 24,
             "margin_bottom": 0
