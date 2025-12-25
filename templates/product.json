@@ -923,19 +923,19 @@
         "column_UGG98D": {
           "type": "column",
           "settings": {
-            "icon": "check_circle",
+            "icon": "health_and_safety",
             "filled_icon": false,
-            "title": "Icon",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p><p></p>"
+            "title": "Pain Relief",
+            "text": "<p>Noticeable reduction in back, hip, tailbone, and sciatica pain after long sitting sessions.</p>"
           }
         },
         "column_eFhKXB": {
           "type": "column",
           "settings": {
-            "icon": "check_circle",
+            "icon": "weekend",
             "filled_icon": false,
-            "title": "Icon",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post<p>"
+            "title": "Extended Comfort",
+            "text": "<p>Soft yet supportive, customers say this is 3 times more comfortable than memory foam.</p>"
           }
         }
       },
@@ -988,45 +988,45 @@
         "custom_cards_colors_text": "#ffffff"
       }
     },
-    "icon_bar_r8KpFi": {
+    "icon_bar_hx4TPh": {
       "type": "icon-bar",
       "blocks": {
-        "column_G83pwj": {
+        "column_YFLANh": {
           "type": "column",
           "settings": {
-            "icon": "check_circle",
+            "icon": "ac_unit",
             "filled_icon": false,
-            "title": "Icon",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post<p>"
+            "title": "Cooling airflow",
+            "text": "<p>Honeycomb designs allows for air to pass through, pulling heat away.</p>"
           }
         },
-        "column_kXb7GK": {
+        "column_NRVmtC": {
           "type": "column",
           "settings": {
-            "icon": "check_circle",
+            "icon": "groups",
             "filled_icon": false,
-            "title": "Icon",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post<p>"
+            "title": "One Size Fits All",
+            "text": "<p>Designed to fit anyone, anywhere and for any reason</p>"
           }
         }
       },
       "block_order": [
-        "column_G83pwj",
-        "column_kXb7GK"
+        "column_YFLANh",
+        "column_NRVmtC"
       ],
       "name": "Icon Bar",
       "settings": {
         "display_id": false,
         "visibility": "always-display",
         "title": "",
-        "title_highlight_color": "#0d6acb",
+        "title_highlight_color": "#ffffff",
         "heading_size": "h1",
         "text": "",
-        "color_scheme": "background-1",
+        "color_scheme": "custom",
         "icon_layout": "vertical",
         "icon_size": "medium",
         "icon_color": "accent-1",
-        "cards_color_scheme": "background-1",
+        "cards_color_scheme": "custom",
         "type": "slide",
         "autoplay": false,
         "autoplay_speed": 5,
@@ -1051,12 +1051,12 @@
         "mobile_arrows_position": "hidden",
         "padding_top": 0,
         "padding_bottom": 36,
-        "custom_colors_background": "#FFFFFF",
+        "custom_colors_background": "#0d6acb",
         "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39",
-        "custom_cards_colors_background": "#F3F3F3",
+        "custom_colors_text": "#ffffff",
+        "custom_cards_colors_background": "#0d6acb",
         "custom_cards_gradient_background": "",
-        "custom_cards_colors_text": "#2E2A39"
+        "custom_cards_colors_text": "#ffffff"
       }
     },
     "image_with_text_hWtVKy": {
@@ -1515,7 +1515,7 @@
     "related-products",
     "image_with_text_UHHiUr",
     "icon_bar_Ww6Nmk",
-    "icon_bar_r8KpFi",
+    "icon_bar_hx4TPh",
     "image_with_text_hWtVKy",
     "4fc05ee5-1c30-4863-b88f-81cb6fa7c41a",
     "trustpilot_reviews_XKBmYT",
