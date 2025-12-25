@@ -15,7 +15,7 @@
         "heading_AXQUTG": {
           "type": "heading",
           "settings": {
-            "title": "A powerful daily formula for visible growth and stronger strands.",
+            "title": "Back, Hip or Tailbone Pain? Change What You Sit On",
             "title_highlight_color": "#6d388b",
             "heading_size": "h1"
           }
@@ -417,7 +417,7 @@
             "star_color": "#00b67a",
             "bg_star_color": "#c8c8c8",
             "star_symbol_color": "#ffffff",
-            "label": "(xxxx Reviews)",
+            "label": "(780 Reviews)",
             "size": 16,
             "alignment": "flex-start",
             "scroll_id": "",
@@ -432,9 +432,9 @@
             "desktop_text_size": 16,
             "alignment": "left",
             "text_color": "#121212",
-            "text_1": "✔️ <strong>Faster, Fuller Hair Growth</strong>",
-            "text_2": "✔️ <strong>Strengthens & Stops Breakage</strong>",
-            "text_3": "✔️ <strong>Soothes, Hydrates & Rebalances the Scalp</strong>",
+            "text_1": "<strong>✔️ Pain relief for back, hip, tailbone</strong>",
+            "text_2": "<strong>✔️ Designed for long hours of sitting</strong>",
+            "text_3": "<strong>✔️ Honeycomb design for max support</strong>",
             "icon_scale": 100,
             "icon_color": "#121212",
             "icon_1": "",
@@ -1301,7 +1301,7 @@
         "visibility": "always-display",
         "caption": "",
         "title": "FAQ",
-        "title_highlight_color": "#6D388B",
+        "title_highlight_color": "#6d388b",
         "heading_size": "h1",
         "heading_alignment": "center",
         "layout": "none",
@@ -1316,12 +1316,12 @@
         "display_top_border": true,
         "padding_top": 36,
         "padding_bottom": 36,
-        "custom_colors_background": "#FFFFFF",
+        "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39",
-        "custom_contaner_colors_background": "#FFFFFF",
+        "custom_colors_text": "#2e2a39",
+        "custom_contaner_colors_background": "#ffffff",
         "custom_container_gradient_background": "",
-        "custom_contaner_colors_text": "#2E2A39"
+        "custom_contaner_colors_text": "#2e2a39"
       }
     },
     "b321ab88-2b59-4dba-bade-54885c874ca5": {
