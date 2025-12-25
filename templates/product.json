@@ -275,46 +275,10 @@
     "image_slider_T9QQLt": {
       "type": "image-slider",
       "blocks": {
-        "video_slide_3YTaVY": {
-          "type": "video_slide",
-          "settings": {
-            "video": "shopify://files/videos/Design sans titre (26).mp4",
-            "loop": true,
-            "muted_autoplay": true,
-            "display_play_btn": true,
-            "btn_animation": false,
-            "btn_color_scheme": "accent-1",
-            "display_sound_btn": false,
-            "sound_btn_color_scheme": "inverse",
-            "display_timeline": false,
-            "timeline_color": "accent-1",
-            "description": "",
-            "desc_alignment": "center",
-            "desc_color_scheme": "background-2"
-          }
-        },
-        "video_slide_tJ3zdt": {
-          "type": "video_slide",
-          "settings": {
-            "video": "shopify://files/videos/Design sans titre (27).mp4",
-            "loop": true,
-            "muted_autoplay": true,
-            "display_play_btn": true,
-            "btn_animation": false,
-            "btn_color_scheme": "accent-1",
-            "display_sound_btn": false,
-            "sound_btn_color_scheme": "inverse",
-            "display_timeline": false,
-            "timeline_color": "accent-1",
-            "description": "",
-            "desc_alignment": "center",
-            "desc_color_scheme": "background-2"
-          }
-        },
         "video_slide_jMXryi": {
           "type": "video_slide",
           "settings": {
-            "video": "shopify://files/videos/Design sans titre (29).mp4",
+            "video": "shopify://files/videos/Design sans titre (22).mp4",
             "loop": true,
             "muted_autoplay": true,
             "display_play_btn": true,
@@ -332,7 +296,7 @@
         "video_slide_3PmEFj": {
           "type": "video_slide",
           "settings": {
-            "video": "shopify://files/videos/Design sans titre (28).mp4",
+            "video": "shopify://files/videos/Design sans titre (23).mp4",
             "loop": true,
             "muted_autoplay": true,
             "display_play_btn": true,
@@ -349,8 +313,6 @@
         }
       },
       "block_order": [
-        "video_slide_3YTaVY",
-        "video_slide_tJ3zdt",
         "video_slide_jMXryi",
         "video_slide_3PmEFj"
       ],
