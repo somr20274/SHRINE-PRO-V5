@@ -907,13 +907,13 @@
         "mobile_padding_bottom": 16,
         "desktop_padding_top": 36,
         "desktop_padding_bottom": 36,
-        "custom_colors_background": "#2E2A39",
+        "custom_colors_background": "#2e2a39",
         "custom_gradient_background": "",
-        "custom_colors_text": "#FFFFFF",
+        "custom_colors_text": "#ffffff",
         "custom_colors_solid_button_background": "#dd1d1d",
         "custom_colors_solid_button_text": "#ffffff",
         "custom_colors_outline_button": "#dd1d1d",
-        "custom_section_colors_background": "#FFFFFF",
+        "custom_section_colors_background": "#ffffff",
         "custom_section_gradient_background": ""
       }
     },
@@ -1201,6 +1201,129 @@
         "custom_cards_colors_text": "#2e2a39"
       }
     },
+    "collapsible_content_YiNgMx": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_eUkiL6": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is ReliefSeat™ made of?",
+            "icon": "check_box",
+            "filled_icon": false,
+            "row_content": "<p>ReliefSeat™ is made from a premium medical-grade gel with a honeycomb structure, designed to evenly distribute weight, reduce pressure points, and provide long-lasting support without flattening over time.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_dV6Hny": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Who is ReliefSeat™ for?",
+            "icon": "check_box",
+            "filled_icon": false,
+            "row_content": "<p>ReliefSeat™ is ideal for anyone who sits for long periods, including seniors, office workers, drivers, wheelchair users, and people experiencing back, hip, tailbone, or sciatica discomfort.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_zyqXjG": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How does ReliefSeat™ help relieve pain?",
+            "icon": "check_box",
+            "filled_icon": false,
+            "row_content": "<p>The honeycomb gel design absorbs pressure and supports proper posture, reducing strain on the lower back, hips, and tailbone. This helps minimize pain caused by prolonged sitting.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_tmk4wz": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I use ReliefSeat™ on any chair?",
+            "icon": "check_box",
+            "filled_icon": false,
+            "row_content": "<p>Yes. ReliefSeat™ works on most chairs including office chairs, dining chairs, recliners, sofas, car seats, and wheelchairs. The non-slip cover keeps it securely in place.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_NWPtfW": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Does it get hot when sitting for a long time?",
+            "icon": "check_box",
+            "filled_icon": false,
+            "row_content": "<p>No. Unlike memory foam, ReliefSeat™ allows continuous airflow through its gel structure, helping keep you cool, dry, and comfortable—even during extended sitting.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_kwCprL": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Will the cushion lose its shape over time?",
+            "icon": "check_box",
+            "filled_icon": false,
+            "row_content": "<p>No. ReliefSeat™ is designed to instantly return to its original shape after use and maintains its support even after long-term daily use.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_y9dQzx": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How long does it take to feel relief?",
+            "icon": "check_box",
+            "filled_icon": false,
+            "row_content": "<p>Many customers report feeling improved comfort and pressure relief from the very first use. Results may vary depending on individual needs and sitting habits.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_ggmFJm": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Is ReliefSeat™ covered by a guarantee?",
+            "icon": "check_box",
+            "filled_icon": false,
+            "row_content": "<p>Yes. ReliefSeat™ comes with a <strong>30-day money-back guarantee</strong>. If you’re not satisfied, you can return it for a full refund—no questions asked.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_eUkiL6",
+        "collapsible_row_dV6Hny",
+        "collapsible_row_zyqXjG",
+        "collapsible_row_tmk4wz",
+        "collapsible_row_NWPtfW",
+        "collapsible_row_kwCprL",
+        "collapsible_row_y9dQzx",
+        "collapsible_row_ggmFJm"
+      ],
+      "name": "t:sections.collapsible_content.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "caption": "",
+        "title": "FAQ",
+        "title_highlight_color": "#6D388B",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "video_muted_autoplay": true,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "row_heading_size": "medium",
+        "collapse_icon": "carret",
+        "display_top_border": true,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39",
+        "custom_contaner_colors_background": "#FFFFFF",
+        "custom_container_gradient_background": "",
+        "custom_contaner_colors_text": "#2E2A39"
+      }
+    },
     "b321ab88-2b59-4dba-bade-54885c874ca5": {
       "type": "section-divider",
       "settings": {
@@ -1252,6 +1375,7 @@
     "image_with_text_hWtVKy",
     "4fc05ee5-1c30-4863-b88f-81cb6fa7c41a",
     "trustpilot_reviews_XKBmYT",
+    "collapsible_content_YiNgMx",
     "b321ab88-2b59-4dba-bade-54885c874ca5",
     "17654820405e632917"
   ]
