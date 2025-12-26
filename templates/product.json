@@ -1250,6 +1250,7 @@
         "column_YLWH3K",
         "column_MtngQW"
       ],
+      "disabled": true,
       "name": "Trustpilot reviews",
       "settings": {
         "display_id": false,
