@@ -435,10 +435,16 @@
             "margin_bottom": 15
           }
         },
+        "custom_liquid_qGJEcN": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<p class=\"product__inventory no-js-hidden\" id=\"Inventory-template--22213608309023__main\" role=\"status\"><svg width=\"15\" height=\"15\" aria-hidden=\"true\">\n                        <circle cx=\"7.5\" cy=\"7.5\" r=\"7.5\" fill=\"rgb(62,214,96, 0.3)\"></circle>\n                        <circle cx=\"7.5\" cy=\"7.5\" r=\"5\" stroke=\"rgb(255, 255, 255)\" stroke-width=\"1\" fill=\"rgb(62,214,96)\"></circle>\n                      </svg> Only 8 In stock !</p>"
+          }
+        },
         "urgency_CLJc6x": {
           "type": "urgency",
           "settings": {
-            "urgency": "⚠️ LIMITED STOCK — SALES CLOSE ON 27/12/2025 AT 11:59 PM",
+            "urgency": "⚠️ LIMITED STOCK — SALES CLOSE ON 28/12/2025 AT 11:59 PM",
             "color_scheme": "accent-1",
             "margin_top": 15,
             "margin_bottom": 15
@@ -741,6 +747,7 @@
         "trustpilot_stars_wqhDw3",
         "text_GkrLfa",
         "price",
+        "custom_liquid_qGJEcN",
         "urgency_CLJc6x",
         "5fcc0428-e768-4cb7-bea3-eb0274198dd1",
         "04ba004e-2f54-4936-8b1c-8bcadf6573f6",
