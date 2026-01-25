@@ -304,7 +304,7 @@
       "update": "Mettre à jour",
       "login": {
         "title": "Do you have an account?",
-        "paragraph_html": "<a href=\"{{ link }}\" class=\"link underlined-link\">Connectez-vous</a> pour payer plus vite."
+        "paragraph_html": "<a href=\"{{ link }}\" class=\"link underlined-link\">Log in</a> to pay faster."
       }
     },
     "footer": {
