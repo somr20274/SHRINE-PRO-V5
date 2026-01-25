@@ -486,7 +486,7 @@
             "enable_quantity_discounts": true,
             "style": "normal",
             "headline": "Seasonal sales !",
-            "preselected": "option_1",
+            "preselected": "option_2",
             "display_selected_indicator": true,
             "border_radius": 10,
             "border_width": 2,
