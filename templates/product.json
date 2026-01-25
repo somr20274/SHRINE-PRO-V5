@@ -1435,21 +1435,6 @@
         "custom_contaner_colors_text": "#2e2a39"
       }
     },
-    "b321ab88-2b59-4dba-bade-54885c874ca5": {
-      "type": "section-divider",
-      "settings": {
-        "visibility": "always-display",
-        "shape": "waves_3",
-        "flip_horizontal": false,
-        "flip_vertical": false,
-        "shape_color": "accent-1",
-        "custom_shape_color": "#dd1d1d",
-        "background_color": "background-1",
-        "custom_background_color": "#ffffff",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "17654820405e632917": {
       "type": "apps",
       "blocks": {
@@ -1489,7 +1474,6 @@
     "4fc05ee5-1c30-4863-b88f-81cb6fa7c41a",
     "trustpilot_reviews_XKBmYT",
     "collapsible_content_YiNgMx",
-    "b321ab88-2b59-4dba-bade-54885c874ca5",
     "17654820405e632917"
   ]
 }
