@@ -113,7 +113,7 @@
       "type": "header",
       "settings": {
         "sticky_header_type": "on-scroll-up",
-        "show_line_separator": true,
+        "show_line_separator": false,
         "color_scheme": "background-2",
         "logo_link": "shopify://products/reliefseat",
         "logo_position": "middle-center",
