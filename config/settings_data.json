@@ -274,7 +274,7 @@
               "timer_text": "<strong>Cart reserved for [timer]</strong>",
               "timer_duration": 300,
               "font_size": "1.4",
-              "color_scheme": "inverse",
+              "color_scheme": "accent-1",
               "margin_top": 0,
               "margin_bottom": 15
             }
@@ -418,6 +418,7 @@
           },
           "product_upsells_MfMY9m": {
             "type": "product_upsells",
+            "disabled": true,
             "settings": {
               "position": "body",
               "display": "globally",
