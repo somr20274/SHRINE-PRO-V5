@@ -478,6 +478,9 @@
     "checkout": {
       "general": {
         "cart": "Cart"
+      },
+      "stock": {
+        "empty_cart_label": "Empty cart "
       }
     }
   }
