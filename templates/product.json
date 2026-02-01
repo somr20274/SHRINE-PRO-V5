@@ -274,35 +274,41 @@
     "image_slider_T9QQLt": {
       "type": "image-slider",
       "blocks": {
-        "video_slide_jMXryi": {
-          "type": "video_slide",
+        "image_slide_NiWCk8": {
+          "type": "image_slide",
           "settings": {
-            "loop": true,
-            "muted_autoplay": true,
-            "display_play_btn": true,
-            "btn_animation": false,
-            "btn_color_scheme": "accent-1",
-            "display_sound_btn": false,
-            "sound_btn_color_scheme": "inverse",
-            "display_timeline": false,
-            "timeline_color": "accent-1",
+            "image": "shopify://shop_images/71KJp9TNtUL.jpg",
+            "link": "",
             "description": "",
             "desc_alignment": "center",
             "desc_color_scheme": "background-2"
           }
         },
-        "video_slide_3PmEFj": {
-          "type": "video_slide",
+        "image_slide_fEzkH9": {
+          "type": "image_slide",
           "settings": {
-            "loop": true,
-            "muted_autoplay": true,
-            "display_play_btn": true,
-            "btn_animation": false,
-            "btn_color_scheme": "accent-1",
-            "display_sound_btn": false,
-            "sound_btn_color_scheme": "inverse",
-            "display_timeline": false,
-            "timeline_color": "accent-1",
+            "image": "shopify://shop_images/618WqaftuEL.jpg",
+            "link": "",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "image_slide_Fpi64X": {
+          "type": "image_slide",
+          "settings": {
+            "image": "shopify://shop_images/61utzMlrXoL.jpg",
+            "link": "",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "image_slide_PbWeXF": {
+          "type": "image_slide",
+          "settings": {
+            "image": "shopify://shop_images/71oBNjP8AeL.jpg",
+            "link": "",
             "description": "",
             "desc_alignment": "center",
             "desc_color_scheme": "background-2"
@@ -310,8 +316,10 @@
         }
       },
       "block_order": [
-        "video_slide_jMXryi",
-        "video_slide_3PmEFj"
+        "image_slide_NiWCk8",
+        "image_slide_fEzkH9",
+        "image_slide_Fpi64X",
+        "image_slide_PbWeXF"
       ],
       "name": "Image/Video Slider",
       "settings": {
