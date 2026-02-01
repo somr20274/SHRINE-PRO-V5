@@ -308,6 +308,7 @@
         "image_slide_TpBUa4": {
           "type": "image_slide",
           "settings": {
+            "image": "shopify://shop_images/711eEhvmndL.jpg",
             "link": "",
             "description": "",
             "desc_alignment": "center",
