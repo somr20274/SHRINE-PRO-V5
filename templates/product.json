@@ -280,7 +280,7 @@
           "settings": {
             "image": "shopify://shop_images/618WqaftuEL.jpg",
             "link": "",
-            "description": "",
+            "description": "<p>\"Super lightweight and very natural. My skin just looks fresher.\"</p><p>Emily.R</p>",
             "desc_alignment": "center",
             "desc_color_scheme": "background-2"
           }
@@ -290,7 +290,7 @@
           "settings": {
             "image": "shopify://shop_images/61utzMlrXoL.jpg",
             "link": "",
-            "description": "",
+            "description": "<p>\"Evens out my skin tone without hiding it. Love the glow.\"<br/>Hanna.L</p>",
             "desc_alignment": "center",
             "desc_color_scheme": "background-2"
           }
@@ -300,7 +300,7 @@
           "settings": {
             "image": "shopify://shop_images/61-FouVsDOL.jpg",
             "link": "",
-            "description": "",
+            "description": "<p>\"Easy to apply and really comfortable for everyday wear.\"</p><p>Sophie.N</p>",
             "desc_alignment": "center",
             "desc_color_scheme": "background-2"
           }
@@ -310,7 +310,7 @@
           "settings": {
             "image": "shopify://shop_images/711eEhvmndL.jpg",
             "link": "",
-            "description": "",
+            "description": "<p>\"Feels more like skincare than makeup. No irritation at all.\"</p><p>Laura.D</p>",
             "desc_alignment": "center",
             "desc_color_scheme": "background-2"
           }
