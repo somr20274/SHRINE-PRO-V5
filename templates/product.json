@@ -858,7 +858,7 @@
         "heading_cFNDpz": {
           "type": "heading",
           "settings": {
-            "title": "<strong>Pain. Pressure. Heat. Gone</strong>",
+            "title": "See the Difference",
             "title_highlight_color": "#2e2a39",
             "heading_size": "h2"
           }
@@ -866,7 +866,7 @@
         "text_phBMUQ": {
           "type": "text",
           "settings": {
-            "text": "<p>Experience real relief for your back, hips, tailbone, and sciatica.</p>",
+            "text": "<p><strong>Before</strong><br/>Heavy makeup, uneven tone, skin that feels covered.</p><p><strong>After</strong><br/>Fresh, even, naturally glowing skin — without feeling like makeup.</p>",
             "text_style": "body"
           }
         }
@@ -879,6 +879,7 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
+        "image": "shopify://shop_images/71twwiaWeSL._SL1100_7113ec50-2590-4209-86e4-5c93e2c5bd35.jpg",
         "video_autoplay": true,
         "video_loop": true,
         "height": "adapt",
