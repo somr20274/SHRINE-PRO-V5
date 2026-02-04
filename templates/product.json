@@ -458,6 +458,7 @@
         },
         "5fcc0428-e768-4cb7-bea3-eb0274198dd1": {
           "type": "variant_picker",
+          "disabled": true,
           "settings": {
             "picker_types": "pills, dropdown, dropdown",
             "custom_labels": "[name] - [selected]",
