@@ -914,19 +914,19 @@
         "column_UGG98D": {
           "type": "column",
           "settings": {
-            "icon": "health_and_safety",
+            "icon": "self_improvement",
             "filled_icon": false,
-            "title": "Pain Relief",
-            "text": "<p>Noticeable reduction in back, hip, tailbone, and sciatica pain after long sitting sessions.</p>"
+            "title": "Confidence",
+            "text": "<p>Feel like yourself — just more confident.</p>"
           }
         },
         "column_eFhKXB": {
           "type": "column",
           "settings": {
-            "icon": "weekend",
+            "icon": "air",
             "filled_icon": false,
-            "title": "Extended Comfort",
-            "text": "<p>Soft yet supportive, customers say this is 3 times more comfortable than memory foam.</p>"
+            "title": "Comfort",
+            "text": "<p>So light, you forget you’re wearing makeup</p>"
           }
         }
       },
@@ -985,19 +985,19 @@
         "column_YFLANh": {
           "type": "column",
           "settings": {
-            "icon": "ac_unit",
+            "icon": "auto_awesome",
             "filled_icon": false,
-            "title": "Cooling airflow",
-            "text": "<p>Honeycomb designs allows for air to pass through, pulling heat away.</p>"
+            "title": "Effortless Beauty",
+            "text": "<p>Fresh, put-together skin in seconds.</p>"
           }
         },
         "column_NRVmtC": {
           "type": "column",
           "settings": {
-            "icon": "groups",
+            "icon": "face",
             "filled_icon": false,
-            "title": "One Size Fits All",
-            "text": "<p>Designed to fit anyone, anywhere and for any reason</p>"
+            "title": "Real Skin Glow",
+            "text": "<p>Your skin enhanced, never hidden.</p>"
           }
         }
       },
