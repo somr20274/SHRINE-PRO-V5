@@ -1057,7 +1057,7 @@
         "heading_GBA6bL": {
           "type": "heading",
           "settings": {
-            "title": "Dr. Amina Roberts, Physical Therapy Specialist",
+            "title": "Dr. Amina Roberts, Skin Specialist & Skincare Consultant",
             "title_highlight_color": "#6d388b",
             "heading_size": "h1"
           }
@@ -1065,7 +1065,7 @@
         "text_c9JLJx": {
           "type": "text",
           "settings": {
-            "text": "<p>\"Prolonged sitting puts constant pressure on the lower back and tailbone, which can lead to pain and discomfort — especially as we age. A pressure-relieving gel cushion like<strong> ReliefSeat™ helps redistribute weight, improve sitting posture, and reduce daily strain</strong>\"</p>",
+            "text": "<p>More and more women are moving away from heavy foundation. A lightweight skin tint like this <strong>respects the skin barrier, enhances natural tone and delivers a healthier-looking complexion — without overloading the skin.</strong></p>",
             "text_style": "body"
           }
         }
@@ -1078,6 +1078,7 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
+        "image": "shopify://shop_images/Child_specialist_here.jpg",
         "video_autoplay": true,
         "video_loop": true,
         "height": "adapt",
