@@ -1341,80 +1341,90 @@
         "collapsible_row_eUkiL6": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "What is ReliefSeat™ made of?",
+            "heading": "Does it feel heavy on the skin?",
             "icon": "check_box",
             "filled_icon": false,
-            "row_content": "<p>ReliefSeat™ is made from a premium medical-grade gel with a honeycomb structure, designed to evenly distribute weight, reduce pressure points, and provide long-lasting support without flattening over time.</p>",
+            "row_content": "<p>Not at all. The formula is lightweight and breathable, designed to feel comfortable all day — more like skincare than makeup.</p>",
             "page": ""
           }
         },
         "collapsible_row_dV6Hny": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Who is ReliefSeat™ for?",
+            "heading": "What level of coverage does it provide?",
             "icon": "check_box",
             "filled_icon": false,
-            "row_content": "<p>ReliefSeat™ is ideal for anyone who sits for long periods, including seniors, office workers, drivers, wheelchair users, and people experiencing back, hip, tailbone, or sciatica discomfort.</p>",
+            "row_content": "<p>It offers sheer to light coverage that helps even out skin tone while keeping your natural skin texture visibl</p>",
             "page": ""
           }
         },
         "collapsible_row_zyqXjG": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "How does ReliefSeat™ help relieve pain?",
+            "heading": "Is it suitable for sensitive skin?",
             "icon": "check_box",
             "filled_icon": false,
-            "row_content": "<p>The honeycomb gel design absorbs pressure and supports proper posture, reducing strain on the lower back, hips, and tailbone. This helps minimize pain caused by prolonged sitting.</p>",
+            "row_content": "<p>The formula is designed to be gentle and comfortable. If you have very sensitive skin, we recommend doing a patch test before full use.</p>",
             "page": ""
           }
         },
         "collapsible_row_tmk4wz": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Can I use ReliefSeat™ on any chair?",
+            "heading": "Will it hide imperfections completely?",
             "icon": "check_box",
             "filled_icon": false,
-            "row_content": "<p>Yes. ReliefSeat™ works on most chairs including office chairs, dining chairs, recliners, sofas, car seats, and wheelchairs. The non-slip cover keeps it securely in place.</p>",
+            "row_content": "<p>This skin tint is made to enhance, not mask. It softly evens tone and adds a healthy glow without full coverage.</p>",
             "page": ""
           }
         },
         "collapsible_row_NWPtfW": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Does it get hot when sitting for a long time?",
+            "heading": "Can I build the coverage?",
             "icon": "check_box",
             "filled_icon": false,
-            "row_content": "<p>No. Unlike memory foam, ReliefSeat™ allows continuous airflow through its gel structure, helping keep you cool, dry, and comfortable—even during extended sitting.</p>",
+            "row_content": "<p>Yes. You can apply a light second layer in areas where you’d like a little more coverage, without it feeling heavy.</p>",
             "page": ""
           }
         },
         "collapsible_row_kwCprL": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Will the cushion lose its shape over time?",
+            "heading": "Is it suitable for everyday use?",
             "icon": "check_box",
             "filled_icon": false,
-            "row_content": "<p>No. ReliefSeat™ is designed to instantly return to its original shape after use and maintains its support even after long-term daily use.</p>",
+            "row_content": "<p>Absolutely. It’s designed for daily wear and fits easily into any simple routine.</p>",
             "page": ""
           }
         },
         "collapsible_row_y9dQzx": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "How long does it take to feel relief?",
+            "heading": "How should I apply it?",
             "icon": "check_box",
             "filled_icon": false,
-            "row_content": "<p>Many customers report feeling improved comfort and pressure relief from the very first use. Results may vary depending on individual needs and sitting habits.</p>",
+            "row_content": "<p>Apply a small amount to clean, moisturised skin and blend with fingers, a sponge or a brush.</p>",
             "page": ""
           }
         },
         "collapsible_row_ggmFJm": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Is ReliefSeat™ covered by a guarantee?",
+            "heading": "Is it suitable for all skin types?",
             "icon": "check_box",
             "filled_icon": false,
-            "row_content": "<p>Yes. ReliefSeat™ comes with a <strong>30-day money-back guarantee</strong>. If you’re not satisfied, you can return it for a full refund—no questions asked.</p>",
+            "row_content": "<p>It works best for normal, dry and combination skin. Those with very oily skin may prefer to set it lightly with powder.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_ytM8cJ": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do you offer a guarantee?",
+            "icon": "check_box",
+            "filled_icon": false,
+            "row_content": "<p>Yes. We offer a 30-day satisfaction guarantee so you can try it with confidence.</p>",
             "page": ""
           }
         }
@@ -1427,7 +1437,8 @@
         "collapsible_row_NWPtfW",
         "collapsible_row_kwCprL",
         "collapsible_row_y9dQzx",
-        "collapsible_row_ggmFJm"
+        "collapsible_row_ggmFJm",
+        "collapsible_row_ytM8cJ"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
