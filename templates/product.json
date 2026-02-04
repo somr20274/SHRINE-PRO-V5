@@ -685,14 +685,14 @@
         "de158e68-5d0d-4819-a625-e2dabdff87d1": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Product Features",
+            "heading": "Key Ingredients",
             "heading_size": "medium",
             "icon": "check_box",
             "filled_icon": false,
             "collapse_icon": "carret",
             "display_top_border": true,
             "open": false,
-            "content": "<p>Relieves pain like sciatica and tailbone issues with its thick, breathable honeycomb design.<br/><br/>Allows for lumbar support and cooling during long periods of sitting down. Perfect for the office, at home, in the car or wheelchairs.</p>",
+            "content": "<h2></h2><ul><li><strong>Niacinamide</strong> – Helps improve the appearance of uneven skin tone<br/></li><li><strong>Hyaluronic Acid</strong> – Provides hydration for plump, comfortable skin<br/></li><li><strong>Aloe Vera</strong> – Soothes and supports skin comfort<br/></li></ul>",
             "page": "",
             "margin_top": 24,
             "margin_bottom": 0
@@ -701,14 +701,14 @@
         "collapsible_tab_RryeUb": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Size dimensions",
+            "heading": "Formula Details",
             "heading_size": "medium",
             "icon": "check_box",
             "filled_icon": false,
             "collapse_icon": "carret",
             "display_top_border": true,
             "open": false,
-            "content": "<p>16.5\" x 14.5\" x 1.5\" ; standard sizing made for all purposes</p>",
+            "content": "<p><br/>Lightweight & breathable</p><p>Sheer to light coverage</p><p>Naturally radiant finishSuitable for daily wear</p><p>Designed to feel like skincare, not makeup</p>",
             "page": "",
             "margin_top": 24,
             "margin_bottom": 0
