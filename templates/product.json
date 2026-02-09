@@ -16,7 +16,7 @@
           "type": "heading",
           "settings": {
             "title": "<strong>A breathable skin tint for fresh, healthy-looking skin.</strong>",
-            "title_highlight_color": "#98643b",
+            "title_highlight_color": "#fbd7c4",
             "heading_size": "h1"
           }
         }
@@ -28,7 +28,6 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "image": "shopify://shop_images/714DzW5gmeL._SL1100.jpg",
         "image_1_visibility": "always-display",
         "image_2_visibility": "always-display",
         "image_overlay_opacity": 0,
@@ -209,7 +208,6 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "image": "shopify://shop_images/6_benefices.png",
         "video_autoplay": true,
         "video_loop": true,
         "height": "adapt",
@@ -278,7 +276,6 @@
         "image_slide_fEzkH9": {
           "type": "image_slide",
           "settings": {
-            "image": "shopify://shop_images/618WqaftuEL.jpg",
             "link": "",
             "description": "<p>\"Super lightweight and very natural. My skin just looks fresher.\"</p><p>Emily.R</p>",
             "desc_alignment": "center",
@@ -288,7 +285,6 @@
         "image_slide_Fpi64X": {
           "type": "image_slide",
           "settings": {
-            "image": "shopify://shop_images/61utzMlrXoL.jpg",
             "link": "",
             "description": "<p>\"Evens out my skin tone without hiding it. Love the glow.\"<br/>Hanna.L</p>",
             "desc_alignment": "center",
@@ -298,7 +294,6 @@
         "image_slide_gzUnrG": {
           "type": "image_slide",
           "settings": {
-            "image": "shopify://shop_images/61-FouVsDOL.jpg",
             "link": "",
             "description": "<p>\"Easy to apply and really comfortable for everyday wear.\"</p><p>Sophie.N</p>",
             "desc_alignment": "center",
@@ -308,7 +303,6 @@
         "image_slide_TpBUa4": {
           "type": "image_slide",
           "settings": {
-            "image": "shopify://shop_images/711eEhvmndL.jpg",
             "link": "",
             "description": "<p>\"Feels more like skincare than makeup. No irritation at all.\"</p><p>Laura.D</p>",
             "desc_alignment": "center",
@@ -880,7 +874,6 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "image": "shopify://shop_images/71twwiaWeSL._SL1100_7113ec50-2590-4209-86e4-5c93e2c5bd35.jpg",
         "video_autoplay": true,
         "video_loop": true,
         "height": "adapt",
