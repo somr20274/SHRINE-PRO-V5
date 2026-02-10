@@ -707,14 +707,14 @@
         "collapsible_tab_iVEjdC": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Who It’s For",
+            "heading": "How it's work",
             "heading_size": "medium",
             "icon": "check_box",
             "filled_icon": false,
             "collapse_icon": "carret",
             "display_top_border": true,
             "open": false,
-            "content": "<p>Those who dislike heavy foundation</p><p>Anyone looking for a natural, fresh look</p><p>Normal, dry or combination skin types</p><p>Busy mornings, everyday routines</p><p>Lovers of clean, skin-first beauty</p>",
+            "content": "<p>Cats communicate through pheromones. When stress appears, these signals disappear.</p><p>Our diffuser releases calming pheromones that help cats feel safe, relaxed, and secure — similar to how they feel around their mother as kittens.</p><p>Once plugged in, it works automatically 24/7 to support emotional balance throughout your home.</p>",
             "page": "",
             "margin_top": 24,
             "margin_bottom": 0
@@ -731,22 +731,6 @@
             "display_top_border": true,
             "open": false,
             "content": "<p><strong>Fast & Secure Delivery</strong><br/><br/>All ENOAA orders are processed within <strong>24–48 hours</strong> and shipped with tracking.</p><ul><li><br/><strong>UK Standard Delivery:</strong> 2–4 business days</li></ul><h5> <strong>90-Day Money-Back Guarantee</strong></h5><p>We want you to feel confident trying ENOAA.</p><p>That’s why every order comes with a <strong>90-Day Satisfaction Guarantee</strong>.</p><p><strong>If you don’t see visible improvement in your edges, temples, or overall scalp health within 90 days, simply contact us and we’ll refund your order — no hassle, no questions asked.</strong></p><p>We stand behind the quality of our formula and the results it delivers.</p><p>Try VEINAA risk-free, with complete peace of mind.</p>",
-            "page": "",
-            "margin_top": 24,
-            "margin_bottom": 0
-          }
-        },
-        "collapsible_tab_nTJ64g": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "How to Use",
-            "heading_size": "medium",
-            "icon": "check_box",
-            "filled_icon": false,
-            "collapse_icon": "carret",
-            "display_top_border": true,
-            "open": false,
-            "content": "<p>Apply a small amount to clean, moisturised skin.Blend with fingers, sponge or brush.Build lightly where needed for extra coverage.</p>",
             "page": "",
             "margin_top": 24,
             "margin_bottom": 0
@@ -771,8 +755,7 @@
         "de158e68-5d0d-4819-a625-e2dabdff87d1",
         "collapsible_tab_RryeUb",
         "collapsible_tab_iVEjdC",
-        "collapsible_tab_tggUkb",
-        "collapsible_tab_nTJ64g"
+        "collapsible_tab_tggUkb"
       ],
       "custom_css": [],
       "settings": {
