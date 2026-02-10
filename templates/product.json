@@ -898,6 +898,22 @@
         "custom_section_gradient_background": ""
       }
     },
+    "section_divider_VGApwz": {
+      "type": "section-divider",
+      "name": "Section divider",
+      "settings": {
+        "visibility": "always-display",
+        "shape": "diagonal_1",
+        "flip_horizontal": false,
+        "flip_vertical": false,
+        "shape_color": "custom",
+        "custom_shape_color": "#ffffff",
+        "background_color": "background-1",
+        "custom_background_color": "#FFFFFF",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "icon_bar_Ww6Nmk": {
       "type": "icon-bar",
       "blocks": {
@@ -906,8 +922,8 @@
           "settings": {
             "icon": "self_improvement",
             "filled_icon": false,
-            "title": "Trust",
-            "text": "<p>Feel like yourself — just more confident.</p>"
+            "title": "Safe & Drug-Free Relief",
+            "text": "<p>No chemicals or medications</p>"
           }
         },
         "column_eFhKXB": {
@@ -915,8 +931,8 @@
           "settings": {
             "icon": "air",
             "filled_icon": false,
-            "title": "Comfort",
-            "text": "<p>So light, you forget you’re wearing makeup</p>"
+            "title": "24/7 Calm Effect",
+            "text": "<p>Just plug it in, and they’ll start calming</p>"
           }
         }
       },
@@ -961,12 +977,12 @@
         "mobile_arrows_position": "hidden",
         "padding_top": 36,
         "padding_bottom": 36,
-        "custom_colors_background": "#98643b",
+        "custom_colors_background": "#fbd7c4",
         "custom_gradient_background": "",
-        "custom_colors_text": "#ffffff",
-        "custom_cards_colors_background": "#98643b",
+        "custom_colors_text": "#121212",
+        "custom_cards_colors_background": "#fbd7c4",
         "custom_cards_gradient_background": "",
-        "custom_cards_colors_text": "#ffffff"
+        "custom_cards_colors_text": "#121212"
       }
     },
     "icon_bar_hx4TPh": {
@@ -977,8 +993,8 @@
           "settings": {
             "icon": "auto_awesome",
             "filled_icon": false,
-            "title": "Effortless Beauty",
-            "text": "<p>Fresh, put-together skin in seconds.</p>"
+            "title": "Stops stress behaviors",
+            "text": "<p>Peeing, Fighting, Scratching, Growling, Excessive Meowing</p>"
           }
         },
         "column_NRVmtC": {
@@ -986,8 +1002,8 @@
           "settings": {
             "icon": "face",
             "filled_icon": false,
-            "title": "Real Skin Glow",
-            "text": "<p>Your skin enhanced, never hidden.</p>"
+            "title": "Clinically tested formula",
+            "text": "<p>Proven by NIH (.gov) studies</p>"
           }
         }
       },
@@ -1032,52 +1048,12 @@
         "mobile_arrows_position": "hidden",
         "padding_top": 0,
         "padding_bottom": 36,
-        "custom_colors_background": "#98643b",
+        "custom_colors_background": "#fbd7c4",
         "custom_gradient_background": "",
         "custom_colors_text": "#ffffff",
-        "custom_cards_colors_background": "#98643b",
+        "custom_cards_colors_background": "#fbd7c4",
         "custom_cards_gradient_background": "",
-        "custom_cards_colors_text": "#ffffff"
-      }
-    },
-    "rich_text_LzJ9QK": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_rFQ3Ri": {
-          "type": "heading",
-          "settings": {
-            "title": "<strong>About Our Pheromones</strong>",
-            "title_highlight_color": "#e67a61",
-            "heading_size": "h1"
-          }
-        },
-        "text_HzdaxF": {
-          "type": "text",
-          "settings": {
-            "text": "<p>We craft a blend of two calming pheromones in our lab.</p><p>-Here’s a simple way to explain it —keep reading to find out!!</p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_rFQ3Ri",
-        "text_HzdaxF"
-      ],
-      "name": "t:sections.rich-text.presets.name",
-      "settings": {
-        "display_id": false,
-        "visibility": "always-display",
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "full_width": true,
-        "color_scheme": "background-1",
-        "padding_top": 40,
-        "padding_bottom": 52,
-        "custom_colors_background": "#FFFFFF",
-        "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39",
-        "custom_colors_solid_button_background": "#dd1d1d",
-        "custom_colors_solid_button_text": "#ffffff",
-        "custom_colors_outline_button": "#dd1d1d"
+        "custom_cards_colors_text": "#121212"
       }
     },
     "content_tabs_ayp3LR": {
@@ -1197,6 +1173,7 @@
         "heading_GBA6bL",
         "text_c9JLJx"
       ],
+      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "display_id": false,
@@ -1625,9 +1602,9 @@
     "main",
     "related-products",
     "image_with_text_UHHiUr",
+    "section_divider_VGApwz",
     "icon_bar_Ww6Nmk",
     "icon_bar_hx4TPh",
-    "rich_text_LzJ9QK",
     "content_tabs_ayp3LR",
     "image_with_text_hWtVKy",
     "4fc05ee5-1c30-4863-b88f-81cb6fa7c41a",
