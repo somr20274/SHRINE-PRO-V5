@@ -1080,56 +1080,98 @@
         "custom_colors_outline_button": "#dd1d1d"
       }
     },
-    "image_banner_CcQMEU": {
-      "type": "image-banner",
+    "content_tabs_ayp3LR": {
+      "type": "content-tabs",
       "blocks": {
-        "heading_aJ8irk": {
-          "type": "heading",
+        "tab_TYDEqa": {
+          "type": "tab",
           "settings": {
-            "title": "Image banner",
+            "btn_label": "<strong>Feline Facial Pheromones</strong>",
+            "btn_icon": "",
+            "filled_btn_icon": false,
+            "image": "shopify://shop_images/image5_c664c45d-6d22-47bb-bb23-9a28206df05a.png",
+            "loop": false,
+            "muted_autoplay": false,
+            "btn_color_scheme": "accent-1",
+            "btn_animation": false,
+            "title": "<strong>What They Do</strong>",
+            "title_highlight_color": "#e67a61",
+            "heading_size": "h1",
+            "text": "<p>Naturally produced by cats to mark safe territory, signaling comfort and security.</p><p><strong>Boosts security</strong> — Mimics ‘all-clear’ signals, reducing stress and creating a sense of safety.</p><p><strong>Lessens Marking </strong>— Helps decrease stress-related behaviors like urine marking.</p><p><strong>Encourages Play </strong>— Creates a relaxed environment that fosters curiosity and playfulness.</p>",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "atc_button_label": "",
+            "atc_skip_cart": false,
+            "product": "",
+            "desktop_media_width": "half",
+            "desktop_media_position": "media_first",
+            "desktop_text_alignment": "center",
+            "mobile_media_position": "media_first",
+            "mobile_text_alignment": "mobile-center"
+          }
+        },
+        "tab_xPdGF8": {
+          "type": "tab",
+          "settings": {
+            "btn_label": "Tab button",
+            "btn_icon": "",
+            "filled_btn_icon": false,
+            "loop": false,
+            "muted_autoplay": false,
+            "btn_color_scheme": "accent-1",
+            "btn_animation": false,
+            "title": "Tab heading",
             "title_highlight_color": "#6D388B",
-            "heading_size": "h1"
-          }
-        },
-        "text_Wx7BHC": {
-          "type": "text",
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "atc_button_jFh4ix": {
-          "type": "atc_button",
-          "settings": {
-            "button_label": "Add to Cart",
-            "atc_product": "",
-            "atc_skip_cart": false
+            "heading_size": "h1",
+            "text": "<p>Use this section to display different benefits or different products that are sorted by clickable tabs.</p>",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "atc_button_label": "",
+            "atc_skip_cart": false,
+            "product": "",
+            "desktop_media_width": "half",
+            "desktop_media_position": "media_first",
+            "desktop_text_alignment": "center",
+            "mobile_media_position": "media_first",
+            "mobile_text_alignment": "mobile-center"
           }
         }
       },
       "block_order": [
-        "heading_aJ8irk",
-        "text_Wx7BHC",
-        "atc_button_jFh4ix"
+        "tab_TYDEqa",
+        "tab_xPdGF8"
       ],
-      "name": "t:sections.image-banner.presets.name",
+      "name": "Content tabs",
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "image": "shopify://shop_images/image5_c664c45d-6d22-47bb-bb23-9a28206df05a.png",
-        "image_1_visibility": "always-display",
-        "image_2_visibility": "always-display",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "url": "",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
+        "title": "<strong>About Our Pheromones</strong>",
+        "title_highlight_color": "#e67a61",
+        "heading_size": "h1",
+        "text": "<p>We craft a blend of two calming pheromones in our lab.</p><p>-</p><p>Here’s a simple way to explain it—keep reading to find out!!</p>",
         "color_scheme": "background-1",
-        "transparent_container_color": "white",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
+        "container_width": "100",
+        "buttons_color_scheme": "accent-1",
+        "button_border_radius": 6,
+        "buttons_style": "outlined",
+        "active_button_animation": "moving",
+        "header_layout": "horizontal",
+        "buttons_desktop_font_size": 15,
+        "desktop_full_size_buttons": false,
+        "buttons_mobile_font_size": 13,
+        "mobile_full_size_buttons": true,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d",
+        "custom_tabs_color": "#000000",
+        "custom_tabs_color_label": "#FFFFFF"
       }
     },
     "image_with_text_hWtVKy": {
@@ -1586,7 +1628,7 @@
     "icon_bar_Ww6Nmk",
     "icon_bar_hx4TPh",
     "rich_text_LzJ9QK",
-    "image_banner_CcQMEU",
+    "content_tabs_ayp3LR",
     "image_with_text_hWtVKy",
     "4fc05ee5-1c30-4863-b88f-81cb6fa7c41a",
     "trustpilot_reviews_XKBmYT",
