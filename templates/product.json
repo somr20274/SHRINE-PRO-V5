@@ -909,7 +909,7 @@
         "shape_color": "custom",
         "custom_shape_color": "#ffffff",
         "background_color": "background-1",
-        "custom_background_color": "#FFFFFF",
+        "custom_background_color": "#ffffff",
         "padding_top": 0,
         "padding_bottom": 0
       }
@@ -920,7 +920,7 @@
         "column_UGG98D": {
           "type": "column",
           "settings": {
-            "icon": "self_improvement",
+            "icon": "health_and_safety",
             "filled_icon": false,
             "title": "Safe & Drug-Free Relief",
             "text": "<p>No chemicals or medications</p>"
@@ -929,7 +929,7 @@
         "column_eFhKXB": {
           "type": "column",
           "settings": {
-            "icon": "air",
+            "icon": "schedule",
             "filled_icon": false,
             "title": "24/7 Calm Effect",
             "text": "<p>Just plug it in, and they’ll start calming</p>"
@@ -991,7 +991,7 @@
         "column_YFLANh": {
           "type": "column",
           "settings": {
-            "icon": "auto_awesome",
+            "icon": "pets",
             "filled_icon": false,
             "title": "Stops stress behaviors",
             "text": "<p>Peeing, Fighting, Scratching, Growling, Excessive Meowing</p>"
@@ -1000,7 +1000,7 @@
         "column_NRVmtC": {
           "type": "column",
           "settings": {
-            "icon": "face",
+            "icon": "science",
             "filled_icon": false,
             "title": "Clinically tested formula",
             "text": "<p>Proven by NIH (.gov) studies</p>"
@@ -1140,14 +1140,14 @@
         "mobile_full_size_buttons": true,
         "padding_top": 36,
         "padding_bottom": 36,
-        "custom_colors_background": "#FFFFFF",
+        "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39",
+        "custom_colors_text": "#2e2a39",
         "custom_colors_solid_button_background": "#dd1d1d",
         "custom_colors_solid_button_text": "#ffffff",
         "custom_colors_outline_button": "#dd1d1d",
         "custom_tabs_color": "#000000",
-        "custom_tabs_color_label": "#FFFFFF"
+        "custom_tabs_color_label": "#ffffff"
       }
     },
     "image_with_text_hWtVKy": {
