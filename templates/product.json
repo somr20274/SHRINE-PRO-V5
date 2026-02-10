@@ -1040,6 +1040,98 @@
         "custom_cards_colors_text": "#ffffff"
       }
     },
+    "rich_text_LzJ9QK": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_rFQ3Ri": {
+          "type": "heading",
+          "settings": {
+            "title": "<strong>About Our Pheromones</strong>",
+            "title_highlight_color": "#e67a61",
+            "heading_size": "h1"
+          }
+        },
+        "text_HzdaxF": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We craft a blend of two calming pheromones in our lab.</p><p>-Here’s a simple way to explain it —keep reading to find out!!</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_rFQ3Ri",
+        "text_HzdaxF"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "full_width": true,
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d"
+      }
+    },
+    "image_banner_CcQMEU": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_aJ8irk": {
+          "type": "heading",
+          "settings": {
+            "title": "Image banner",
+            "title_highlight_color": "#6D388B",
+            "heading_size": "h1"
+          }
+        },
+        "text_Wx7BHC": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "atc_button_jFh4ix": {
+          "type": "atc_button",
+          "settings": {
+            "button_label": "Add to Cart",
+            "atc_product": "",
+            "atc_skip_cart": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_aJ8irk",
+        "text_Wx7BHC",
+        "atc_button_jFh4ix"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "image": "shopify://shop_images/image5_c664c45d-6d22-47bb-bb23-9a28206df05a.png",
+        "image_1_visibility": "always-display",
+        "image_2_visibility": "always-display",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "url": "",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "transparent_container_color": "white",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "image_with_text_hWtVKy": {
       "type": "image-with-text",
       "blocks": {
@@ -1493,6 +1585,8 @@
     "image_with_text_UHHiUr",
     "icon_bar_Ww6Nmk",
     "icon_bar_hx4TPh",
+    "rich_text_LzJ9QK",
+    "image_banner_CcQMEU",
     "image_with_text_hWtVKy",
     "4fc05ee5-1c30-4863-b88f-81cb6fa7c41a",
     "trustpilot_reviews_XKBmYT",
