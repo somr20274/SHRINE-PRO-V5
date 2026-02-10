@@ -358,6 +358,7 @@
       "blocks": {
         "image_dcdJGC": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/p_why_is_your_dog_behaving_badly_p__1_0f03b710-f455-42d5-93f5-f1b861015616.png",
             "width": 100,
