@@ -356,6 +356,18 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "image_dcdJGC": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/p_why_is_your_dog_behaving_badly_p__1_0f03b710-f455-42d5-93f5-f1b861015616.png",
+            "width": 100,
+            "Full_mobile_width": false,
+            "alignment": "center",
+            "border_radius": 0,
+            "margin_top": 15,
+            "margin_bottom": 15
+          }
+        },
         "title": {
           "type": "title",
           "settings": {
@@ -754,6 +766,7 @@
         }
       },
       "block_order": [
+        "image_dcdJGC",
         "title",
         "trustpilot_stars_wqhDw3",
         "text_GkrLfa",
