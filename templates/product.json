@@ -1490,6 +1490,7 @@
         },
         "collapsible_row_kwCprL": {
           "type": "collapsible_row",
+          "disabled": true,
           "settings": {
             "heading": "Is it suitable for everyday use?",
             "icon": "check_box",
@@ -1500,6 +1501,7 @@
         },
         "collapsible_row_y9dQzx": {
           "type": "collapsible_row",
+          "disabled": true,
           "settings": {
             "heading": "How should I apply it?",
             "icon": "check_box",
@@ -1510,6 +1512,7 @@
         },
         "collapsible_row_ggmFJm": {
           "type": "collapsible_row",
+          "disabled": true,
           "settings": {
             "heading": "Is it suitable for all skin types?",
             "icon": "check_box",
