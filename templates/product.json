@@ -1441,50 +1441,50 @@
         "collapsible_row_eUkiL6": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Does it feel heavy on the skin?",
+            "heading": "How much diffuser do I need",
             "icon": "check_box",
             "filled_icon": false,
-            "row_content": "<p>Not at all. The formula is lightweight and breathable, designed to feel comfortable all day — more like skincare than makeup.</p>",
+            "row_content": "<p>Each diffuser covers up to 700 sq. ft., but walls and large furniture can block the diffusion. For best results, most customers use 2–3 diffusers to ensure proper coverage across their home.</p>",
             "page": ""
           }
         },
         "collapsible_row_dV6Hny": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "What level of coverage does it provide?",
+            "heading": "How long doest it takes to see results",
             "icon": "check_box",
             "filled_icon": false,
-            "row_content": "<p>It offers sheer to light coverage that helps even out skin tone while keeping your natural skin texture visibl</p>",
+            "row_content": "<p>Most notice a difference within a week, but results vary depending on the cat and their stress level</p>",
             "page": ""
           }
         },
         "collapsible_row_zyqXjG": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Is it suitable for sensitive skin?",
+            "heading": "Where should i use the diffusers",
             "icon": "check_box",
             "filled_icon": false,
-            "row_content": "<p>The formula is designed to be gentle and comfortable. If you have very sensitive skin, we recommend doing a patch test before full use.</p>",
+            "row_content": "<p>Place diffusers in rooms where your cat spends the most time, like the living room, kitchen, or bedroom.</p>",
             "page": ""
           }
         },
         "collapsible_row_tmk4wz": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Will it hide imperfections completely?",
+            "heading": "Is the smell normal",
             "icon": "check_box",
             "filled_icon": false,
-            "row_content": "<p>This skin tint is made to enhance, not mask. It softly evens tone and adds a healthy glow without full coverage.</p>",
+            "row_content": "<p>Yes, a slight smell is normal when the diffuser heats up. If the smell seems too strong, contact our support team for assistance.</p>",
             "page": ""
           }
         },
         "collapsible_row_NWPtfW": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Can I build the coverage?",
+            "heading": "Is it okay if I have others pets at home",
             "icon": "check_box",
             "filled_icon": false,
-            "row_content": "<p>Yes. You can apply a light second layer in areas where you’d like a little more coverage, without it feeling heavy.</p>",
+            "row_content": "<p>Yes! TheraPetMD's pheromones are only detected by dogs and are completely safe for other pets.</p>",
             "page": ""
           }
         },
