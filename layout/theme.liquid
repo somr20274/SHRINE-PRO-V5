@@ -1,39 +1,62 @@
 <!doctype html>
 <html class="no-js" lang="{{ request.locale.iso_code }}">
   <head>
-    <script>
+<script>
 (function () {
   function isMobile() {
     return window.matchMedia && window.matchMedia("(max-width: 768px)").matches;
   }
 
-  function killPhantomSpace() {
+  function refreshProductSliderHeight() {
     if (!isMobile()) return;
 
-    // Cherche la zone média produit (Shrine / Shopify variations)
-    const media =
-      document.querySelector('.product__media') ||
-      document.querySelector('.product-media') ||
-      document.querySelector('[class*="product"][class*="media"]') ||
-      document.querySelector('[class*="gallery"]');
+    // Swiper (très fréquent sur Shrine)
+    document.querySelectorAll(".swiper").forEach(function(swiperEl){
+      if (swiperEl.swiper) {
+        try {
+          swiperEl.swiper.update();
+          swiperEl.swiper.updateAutoHeight && swiperEl.swiper.updateAutoHeight(0);
+        } catch(e){}
+      }
+    });
 
-    if (!media) return;
+    // Flickity (selon versions)
+    document.querySelectorAll(".flickity-enabled").forEach(function(fEl){
+      try {
+        // Flickity instance souvent stockée sur element.flickity ou via data
+        var flkty = fEl.flickity || fEl._flickity;
+        if (flkty && flkty.resize) flkty.resize();
+      } catch(e){}
+    });
 
-    // L’élément juste après la galerie (souvent le spacer)
-    let next = media.nextElementSibling;
+    // Fallback CSS hard reset si wrapper garde une height fixe
+    document.querySelectorAll(".swiper-wrapper, .flickity-viewport").forEach(function(w){
+      w.style.setProperty("height", "auto", "important");
+    });
+  }
 
-    // Parfois, c’est 1-2 wrappers plus bas
-    for (let i = 0; i < 4 && next; i++) {
-      const rect = next.getBoundingClientRect();
-      const hasText = (next.innerText || "").trim().length > 0;
-      const hasImages = next.querySelector && next.querySelector("img,video,svg,button,input,select,textarea");
-      const computed = window.getComputedStyle(next);
+  // Run several times because images load async + Shopify sections re-render
+  window.addEventListener("load", function(){
+    refreshProductSliderHeight();
+    setTimeout(refreshProductSliderHeight, 300);
+    setTimeout(refreshProductSliderHeight, 800);
+    setTimeout(refreshProductSliderHeight, 1500);
+  });
 
-      // Si c’est un bloc "vide" mais très haut → on le tue
-      if (!hasText && !hasImages && rect.height > 120 && computed.display !== "none") {
-        next.style.setProperty("height", "0px", "important");
-        next.style.setProperty("min-height", "0px", "important");
-        next.style.setProperty("margin",
+  window.addEventListener("resize", function(){
+    refreshProductSliderHeight();
+  });
+
+  // When slide changes (touch/drag)
+  document.addEventListener("click", function(e){
+    if (e.target.closest(".swiper, .flickity-enabled")) {
+      setTimeout(refreshProductSliderHeight, 50);
+      setTimeout(refreshProductSliderHeight, 250);
+    }
+  });
+
+})();
+</script>
 
 
     <!-- Meta Pixel Code -->
