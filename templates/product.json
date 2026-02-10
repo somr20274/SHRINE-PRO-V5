@@ -847,15 +847,15 @@
         "heading_cFNDpz": {
           "type": "heading",
           "settings": {
-            "title": "See the Difference",
-            "title_highlight_color": "#2e2a39",
+            "title": "You’ve Probably Tried These Solutions… <strong>But They Don’t Work</strong>",
+            "title_highlight_color": "#e67a61",
             "heading_size": "h2"
           }
         },
         "text_phBMUQ": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Before</strong><br/>Heavy makeup, uneven tone, skin that feels covered.</p><p><strong>After</strong><br/>Fresh, even, naturally glowing skin — without feeling like makeup.</p>",
+            "text": "<p>Adding More Litter Boxes</p><p>Other Pheromone Diffusers</p><p>Enzyme Cleaners</p><p>Changing the Type of Litter</p><p>Separating Cats in Different Areas</p><p>Slow Reintroduction Process</p>",
             "text_style": "body"
           }
         }
@@ -868,11 +868,12 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
+        "image": "shopify://shop_images/image5_webp_f9efdfae-0ada-4555-8571-c183e8fb2718.png",
         "video_autoplay": true,
         "video_loop": true,
         "height": "adapt",
-        "color_scheme": "background-1",
-        "section_color_scheme": "background-1",
+        "color_scheme": "custom",
+        "section_color_scheme": "custom",
         "full_desktop_width": true,
         "content_layout": "no-overlap",
         "desktop_media_width": 50,
@@ -887,13 +888,13 @@
         "mobile_padding_bottom": 16,
         "desktop_padding_top": 36,
         "desktop_padding_bottom": 36,
-        "custom_colors_background": "#2e2a39",
+        "custom_colors_background": "#fbd7c4",
         "custom_gradient_background": "",
-        "custom_colors_text": "#ffffff",
+        "custom_colors_text": "#121212",
         "custom_colors_solid_button_background": "#dd1d1d",
         "custom_colors_solid_button_text": "#ffffff",
         "custom_colors_outline_button": "#dd1d1d",
-        "custom_section_colors_background": "#ffffff",
+        "custom_section_colors_background": "#fbd7c4",
         "custom_section_gradient_background": ""
       }
     },
