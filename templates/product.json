@@ -675,14 +675,14 @@
         "de158e68-5d0d-4819-a625-e2dabdff87d1": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Key Ingredients",
+            "heading": "Formula",
             "heading_size": "medium",
             "icon": "check_box",
             "filled_icon": false,
             "collapse_icon": "carret",
             "display_top_border": true,
             "open": false,
-            "content": "<h2></h2><ul><li><strong>Niacinamide</strong> – Helps improve the appearance of uneven skin tone<br/></li><li><strong>Hyaluronic Acid</strong> – Provides hydration for plump, comfortable skin<br/></li><li><strong>Aloe Vera</strong> – Soothes and supports skin comfort<br/></li></ul>",
+            "content": "<h2>Composition & Formula</h2><ul><li>Synthetic calming pheromones (cat-specific)</li></ul><p></p><ul><li>Odourless and non-toxic<br/></li><li>Drug-free & non-sedating<br/></li><li>Safe for cats of all ages<br/></li></ul><p>⚠️ Contains no essential oils, alcohol, or harmful chemicals.</p>",
             "page": "",
             "margin_top": 24,
             "margin_bottom": 0
@@ -691,14 +691,14 @@
         "collapsible_tab_RryeUb": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Formula Details",
+            "heading": "Details",
             "heading_size": "medium",
             "icon": "check_box",
             "filled_icon": false,
             "collapse_icon": "carret",
             "display_top_border": true,
             "open": false,
-            "content": "<p><br/>Lightweight & breathable</p><p>Sheer to light coverage</p><p>Naturally radiant finishSuitable for daily wear</p><p>Designed to feel like skincare, not makeup</p>",
+            "content": "<p>Designed to support calm, balanced behaviour in cats, our pheromone diffuser helps reduce stress-related issues in a safe, natural way. It works continuously in the background to create a peaceful home environment — without sedation or medication.</p><p>Ideal for single or multi-cat households, rescues, and stressful situations such as moves or new pet introductions.</p>",
             "page": "",
             "margin_top": 24,
             "margin_bottom": 0
