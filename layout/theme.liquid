@@ -1,6 +1,40 @@
 <!doctype html>
 <html class="no-js" lang="{{ request.locale.iso_code }}">
   <head>
+    <script>
+(function () {
+  function isMobile() {
+    return window.matchMedia && window.matchMedia("(max-width: 768px)").matches;
+  }
+
+  function killPhantomSpace() {
+    if (!isMobile()) return;
+
+    // Cherche la zone média produit (Shrine / Shopify variations)
+    const media =
+      document.querySelector('.product__media') ||
+      document.querySelector('.product-media') ||
+      document.querySelector('[class*="product"][class*="media"]') ||
+      document.querySelector('[class*="gallery"]');
+
+    if (!media) return;
+
+    // L’élément juste après la galerie (souvent le spacer)
+    let next = media.nextElementSibling;
+
+    // Parfois, c’est 1-2 wrappers plus bas
+    for (let i = 0; i < 4 && next; i++) {
+      const rect = next.getBoundingClientRect();
+      const hasText = (next.innerText || "").trim().length > 0;
+      const hasImages = next.querySelector && next.querySelector("img,video,svg,button,input,select,textarea");
+      const computed = window.getComputedStyle(next);
+
+      // Si c’est un bloc "vide" mais très haut → on le tue
+      if (!hasText && !hasImages && rect.height > 120 && computed.display !== "none") {
+        next.style.setProperty("height", "0px", "important");
+        next.style.setProperty("min-height", "0px", "important");
+        next.style.setProperty("margin",
+
 
     <!-- Meta Pixel Code -->
     <script>
