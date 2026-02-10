@@ -576,7 +576,7 @@
           "type": "buy_buttons",
           "settings": {
             "show_dynamic_checkout": false,
-            "skip_cart": false,
+            "skip_cart": true,
             "uppercase_text": true,
             "icon_scale": 120,
             "icon_spacing": 10,
@@ -1321,8 +1321,8 @@
             "bg_star_color": "#c8c8c8",
             "star_symbol_color": "#ffffff",
             "stars_rating": 5,
-            "title": "Fresh & Natural",
-            "text": "<p>My skin looks fresher and more even, but still like my skin.</p>",
+            "title": "Calmer behaviour within two weeks",
+            "text": "<p>My cat used to hide all the time. After about two weeks, she’s much more relaxed and confident.</p>",
             "author": "<em><strong>Janelle.M</strong></em>"
           }
         },
@@ -1333,8 +1333,8 @@
             "bg_star_color": "#c8c8c8",
             "star_symbol_color": "#ffffff",
             "stars_rating": 5,
-            "title": "So Lightweight",
-            "text": "<p>Very comfortable to wear. I’ve stopped using foundation completely</p>",
+            "title": "Made a real difference at night",
+            "text": "<p>Less meowing, less pacing around. Nights are finally peaceful again</p>",
             "author": "<em><strong>Alicia.H</strong></em>"
           }
         },
@@ -1345,8 +1345,8 @@
             "bg_star_color": "#c8c8c8",
             "star_symbol_color": "#ffffff",
             "stars_rating": 5,
-            "title": "Easy Everyday Wear",
-            "text": "<p>Simple to apply and gives a really natural glow.</p>",
+            "title": "Helped stop tension between my cats",
+            "text": "<p>They used to chase each other constantly. Now they coexist much more calmly.</p>",
             "author": "<em><strong>Ruth.A</strong></em>"
           }
         },
@@ -1357,8 +1357,8 @@
             "bg_star_color": "#c8c8c8",
             "star_symbol_color": "#ffffff",
             "stars_rating": 5,
-            "title": "Feels Like Skincare",
-            "text": "<p>It doesn’t feel like makeup at all. My skin feels calm and hydrated.</p>",
+            "title": "Perfect during a house move",
+            "text": "<p>Moving was stressful for everyone, especially my cat. This really helped him settle in faster.</p>",
             "author": "<em><strong>Rania.D</strong></em>"
           }
         },
@@ -1369,8 +1369,8 @@
             "bg_star_color": "#c8c8c8",
             "star_symbol_color": "#ffffff",
             "stars_rating": 5,
-            "title": "No More Cakey Makeup",
-            "text": "<p>The finish is very natural and breathable. My skin still looks like skin, just better.</p>",
+            "title": "Subtle but effective",
+            "text": "<p>It’s not instant, but over time the change is obvious. Much less nervous behaviour.</p>",
             "author": "<em><strong>Kelly.V</strong></em>"
           }
         },
@@ -1381,8 +1381,8 @@
             "bg_star_color": "#c8c8c8",
             "star_symbol_color": "#ffffff",
             "stars_rating": 5,
-            "title": "Exactly What I Wanted",
-            "text": "<p>A true no-makeup makeup look. Light, comfortable and really flattering on my skin.</p>",
+            "title": "Great support for an anxious cat",
+            "text": "<p>My cat is very sensitive to changes. This helped her feel safer at home.</p>",
             "author": "<em><strong>Karyn.B</strong></em>"
           }
         }
