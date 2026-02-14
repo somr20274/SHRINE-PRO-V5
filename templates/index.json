@@ -19,24 +19,16 @@
             "title_highlight_color": "#98643b",
             "heading_size": "h1"
           }
-        },
-        "text_HjL8YX": {
-          "type": "text",
-          "settings": {
-            "text": "<h3>Lightweight skin tint that hydrates, evens tone and delivers a natural, healthy glow —<br/><br/><strong>without ever feeling like makeup.</strong></h3>",
-            "text_style": "body"
-          }
         }
       },
       "block_order": [
-        "heading_rxQECM",
-        "text_HjL8YX"
+        "heading_rxQECM"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "image": "shopify://shop_images/image_f91f019a-64ba-4541-b844-afaffbafcd3a.png",
+        "image": "shopify://shop_images/ENOAA.png",
         "video_autoplay": true,
         "video_loop": true,
         "height": "adapt",
