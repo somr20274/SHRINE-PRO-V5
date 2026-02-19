@@ -1048,12 +1048,24 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_wz3zC7": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/10_400x400_257bf4aa-b928-4e23-af9d-78832745bfea.webp",
+            "muted_autoplay": true,
+            "title": "My skin feels more elastic",
+            "text": "<p>My skin had started to feel thinner. After using this spray daily, it feels more elastic and firm. I love how lightweight it is.</p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "column_gqTgXH",
         "column_EmBmM4",
-        "column_fmzGXM"
+        "column_fmzGXM",
+        "column_wz3zC7"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
