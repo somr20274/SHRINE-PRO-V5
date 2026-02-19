@@ -28,7 +28,7 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "image": "shopify://shop_images/image_f91f019a-64ba-4541-b844-afaffbafcd3a.png",
+        "image": "shopify://shop_images/h_JpJAOX1AWBk6rdN1ncT_618x_9ff559ff-a839-4dc1-abe5-71adc7b07bc8.png",
         "image_1_visibility": "always-display",
         "image_2_visibility": "always-display",
         "image_overlay_opacity": 0,
@@ -209,7 +209,6 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "image": "shopify://shop_images/6_benefices_5.png",
         "video_autoplay": true,
         "video_loop": true,
         "height": "adapt",
@@ -278,7 +277,7 @@
         "image_slide_fEzkH9": {
           "type": "image_slide",
           "settings": {
-            "image": "shopify://shop_images/cat4.webp",
+            "image": "shopify://shop_images/58385a91f624447c8a2fc0410713bdbc.thumbnail.0000000000_700x_a72be210-1951-4328-9f6d-12e9caa6923b.jpg",
             "link": "",
             "description": "<p><strong>\"Worth every penny”</strong><br/><br/>I was sceptical at first, but the change in behaviour is real. Less scratching and much more confidence.</p>",
             "desc_alignment": "center",
@@ -288,19 +287,9 @@
         "image_slide_Fpi64X": {
           "type": "image_slide",
           "settings": {
-            "image": "shopify://shop_images/cat5.webp",
+            "image": "shopify://shop_images/5b31aacc1f7e41868da956a63a78d346.thumbnail.0000000000_700x_a414d6ab-3b39-4bc8-a00e-226e45209b52.jpg",
             "link": "",
             "description": "<p><strong>\"No more urine marking”</strong><br/><br/>Our male cat was spraying constantly. This is the only thing that actually helped. The house finally smells fresh again</p>",
-            "desc_alignment": "center",
-            "desc_color_scheme": "background-2"
-          }
-        },
-        "image_slide_gzUnrG": {
-          "type": "image_slide",
-          "settings": {
-            "image": "shopify://shop_images/cat2_1.jpg",
-            "link": "",
-            "description": "<p><strong>\"Easy to use and stress-free”</strong><br/><br/>Just plug it in and forget about it. No smell, no fuss — and my cat seems much more relaxed</p>",
             "desc_alignment": "center",
             "desc_color_scheme": "background-2"
           }
@@ -308,8 +297,7 @@
       },
       "block_order": [
         "image_slide_fEzkH9",
-        "image_slide_Fpi64X",
-        "image_slide_gzUnrG"
+        "image_slide_Fpi64X"
       ],
       "name": "Image/Video Slider",
       "settings": {
@@ -361,7 +349,6 @@
           "type": "image",
           "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/p_why_is_your_dog_behaving_badly_p__1_0f03b710-f455-42d5-93f5-f1b861015616.png",
             "width": 100,
             "Full_mobile_width": false,
             "alignment": "center",
@@ -717,6 +704,27 @@
             "margin_bottom": 24
           }
         },
+        "video_ckXUD8": {
+          "type": "video",
+          "settings": {
+            "video": "shopify://files/videos/5b31aacc1f7e41868da956a63a78d346.HD-1080p-7.2Mbps-65990265.mp4",
+            "loop": true,
+            "muted_autoplay": true,
+            "display_play_btn": false,
+            "btn_animation": false,
+            "btn_color_scheme": "accent-1",
+            "display_sound_btn": false,
+            "sound_btn_color_scheme": "inverse",
+            "display_timeline": false,
+            "timeline_color": "accent-1",
+            "width": 100,
+            "Full_mobile_width": false,
+            "alignment": "center",
+            "border_radius": 0,
+            "margin_top": 15,
+            "margin_bottom": 15
+          }
+        },
         "collapsible_tab_a6bKD4": {
           "type": "collapsible_tab",
           "settings": {
@@ -815,6 +823,7 @@
         "e7a28cbe-03cb-4c9d-a2c4-0e3e76ffb3e5",
         "description",
         "reviews_8UgFbe",
+        "video_ckXUD8",
         "collapsible_tab_a6bKD4",
         "de158e68-5d0d-4819-a625-e2dabdff87d1",
         "collapsible_tab_RryeUb",
@@ -915,7 +924,6 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "image": "shopify://shop_images/image5_webp_f9efdfae-0ada-4555-8571-c183e8fb2718.png",
         "video_autoplay": true,
         "video_loop": true,
         "height": "adapt",
@@ -1112,7 +1120,6 @@
             "btn_label": "<strong>Feline Facial Pheromones</strong>",
             "btn_icon": "",
             "filled_btn_icon": false,
-            "image": "shopify://shop_images/image5_c664c45d-6d22-47bb-bb23-9a28206df05a.png",
             "loop": false,
             "muted_autoplay": false,
             "btn_color_scheme": "accent-1",
