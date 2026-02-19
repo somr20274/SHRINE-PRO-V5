@@ -760,6 +760,7 @@
         },
         "collapsible_tab_a6bKD4": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Key Benefits",
             "heading_size": "medium",
