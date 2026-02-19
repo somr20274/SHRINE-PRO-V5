@@ -695,7 +695,7 @@
             "display_arrows": false,
             "display_dots": true,
             "author_1": "<em>Marlyn.O</em> [stars]",
-            "image_1": "shopify://shop_images/telechargement_1.jpg",
+            "image_1": "shopify://shop_images/dSrdqjt-DqLzxknjKogqs_856x_91c67084-af42-43f4-bdbe-95212fe2f368.png",
             "text_1": "<p><strong>\"Confidence boost\"</strong></p><p><br/>I started using it before a beach trip and I felt way more confident in my swimsuit. My skin just looks tighter and healthier.</p>",
             "author_2": "",
             "text_2": "",
@@ -970,6 +970,63 @@
         "custom_background_color": "#ffffff",
         "padding_top": 0,
         "padding_bottom": 0
+      }
+    },
+    "horizontal_ticker_YTYKUR": {
+      "type": "horizontal-ticker",
+      "blocks": {
+        "text_7WMFjz": {
+          "type": "text",
+          "settings": {
+            "title": "120-DAY GUARANTEE"
+          }
+        },
+        "text_6eYqtQ": {
+          "type": "text",
+          "settings": {
+            "title": "10,000+ HAPPY CUSTOMERS"
+          }
+        },
+        "text_3zcth8": {
+          "type": "text",
+          "settings": {
+            "title": "NATURAL INGREDIENTS"
+          }
+        }
+      },
+      "block_order": [
+        "text_7WMFjz",
+        "text_6eYqtQ",
+        "text_3zcth8"
+      ],
+      "name": "Horizontal Ticker",
+      "settings": {
+        "visibility": "always-display",
+        "speed": 3,
+        "direction": "normal",
+        "stop_on_hover": false,
+        "mobile_spacing": 60,
+        "desktop_spacing": 100,
+        "color_scheme": "custom",
+        "mobile_text_size": 16,
+        "desktop_text_size": 18,
+        "italic_text": false,
+        "uppercase_text": false,
+        "bold_text": false,
+        "mobile_image_height": 26,
+        "desktop_image_height": 40,
+        "mobile_reviews_width": 300,
+        "desktop_reviews_width": 400,
+        "hidden_products": "",
+        "enable_specific_display": false,
+        "displayed_products": "",
+        "mobile_padding_top": 12,
+        "mobile_padding_bottom": 12,
+        "desktop_padding_top": 16,
+        "desktop_padding_bottom": 16,
+        "custom_colors_background": "#a17a3d",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#ffffff"
       }
     },
     "icon_bar_Ww6Nmk": {
@@ -1663,6 +1720,7 @@
     "related-products",
     "image_with_text_UHHiUr",
     "section_divider_VGApwz",
+    "horizontal_ticker_YTYKUR",
     "icon_bar_Ww6Nmk",
     "icon_bar_hx4TPh",
     "content_tabs_ayp3LR",
