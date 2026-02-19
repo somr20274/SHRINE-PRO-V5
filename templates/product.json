@@ -1032,12 +1032,12 @@
         "mobile_arrows_position": "hidden",
         "padding_top": 36,
         "padding_bottom": 36,
-        "custom_colors_background": "#fbd7c4",
+        "custom_colors_background": "#a17a3d",
         "custom_gradient_background": "",
-        "custom_colors_text": "#121212",
-        "custom_cards_colors_background": "#fbd7c4",
+        "custom_colors_text": "#ffffff",
+        "custom_cards_colors_background": "#a17a3d",
         "custom_cards_gradient_background": "",
-        "custom_cards_colors_text": "#121212"
+        "custom_cards_colors_text": "#ffffff"
       }
     },
     "icon_bar_hx4TPh": {
@@ -1103,12 +1103,12 @@
         "mobile_arrows_position": "hidden",
         "padding_top": 0,
         "padding_bottom": 36,
-        "custom_colors_background": "#fbd7c4",
+        "custom_colors_background": "#a17a3d",
         "custom_gradient_background": "",
         "custom_colors_text": "#ffffff",
-        "custom_cards_colors_background": "#fbd7c4",
+        "custom_cards_colors_background": "#a17a3d",
         "custom_cards_gradient_background": "",
-        "custom_cards_colors_text": "#121212"
+        "custom_cards_colors_text": "#ffffff"
       }
     },
     "content_tabs_ayp3LR": {
