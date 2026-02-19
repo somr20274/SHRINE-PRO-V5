@@ -1059,8 +1059,8 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "title": "Multicolumn",
-        "title_highlight_color": "#6D388B",
+        "title": "Loved by <strong>10,000+</strong>",
+        "title_highlight_color": "#a17a3d",
         "heading_size": "h1",
         "button_label": "",
         "button_link": "",
