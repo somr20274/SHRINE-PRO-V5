@@ -1140,19 +1140,19 @@
         "column_UGG98D": {
           "type": "column",
           "settings": {
-            "icon": "health_and_safety",
+            "icon": "spa",
             "filled_icon": false,
-            "title": "Safe & Drug-Free Relief",
+            "title": "Derm-Inspired Formula",
             "text": "<p>No chemicals or medications</p>"
           }
         },
         "column_eFhKXB": {
           "type": "column",
           "settings": {
-            "icon": "schedule",
+            "icon": "health_and_safety",
             "filled_icon": false,
-            "title": "24/7 Calm Effect",
-            "text": "<p>Just plug it in, and they’ll start calming</p>"
+            "title": "Non-Invasive Solution",
+            "text": "<p>No needles, gentle daily firming support</p>"
           }
         }
       },
@@ -1211,19 +1211,19 @@
         "column_YFLANh": {
           "type": "column",
           "settings": {
-            "icon": "pets",
+            "icon": "bolt",
             "filled_icon": false,
-            "title": "Stops stress behaviors",
-            "text": "<p>Peeing, Fighting, Scratching, Growling, Excessive Meowing</p>"
+            "title": "Fast-Absorbing Mist",
+            "text": "<p>Lightweight spray that absorbs quickly with no sticky residue.</p>"
           }
         },
         "column_NRVmtC": {
           "type": "column",
           "settings": {
-            "icon": "science",
+            "icon": "verified",
             "filled_icon": false,
-            "title": "Clinically tested formula",
-            "text": "<p>Proven by NIH (.gov) studies</p>"
+            "title": "30-Day Guarantee",
+            "text": "<p>Try it risk-free or get your money back.</p>"
           }
         }
       },
