@@ -726,6 +726,38 @@
             "margin_bottom": 15
           }
         },
+        "collapsible_tab_RryeUb": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Details",
+            "heading_size": "medium",
+            "icon": "check_box",
+            "filled_icon": false,
+            "collapse_icon": "carret",
+            "display_top_border": true,
+            "open": false,
+            "content": "<p><strong>Firming Collagen Spray</strong> is a lightweight, fast-absorbing formula designed to visibly improve skin firmness and elasticity.</p><p>✔ Helps improve the appearance of loose or sagging skin<br/><br/>✔ Supports skin elasticity<br/><br/>✔ Hydrates and smooths texture<br/><br/>✔ Lightweight mist formula<br/><br/>✔ Suitable for stomach, arms, neck & thighs</p><p>Size: 50ml / 1.7oz<br/><br/>Skin Type: All skin types</p>",
+            "page": "",
+            "margin_top": 24,
+            "margin_bottom": 0
+          }
+        },
+        "de158e68-5d0d-4819-a625-e2dabdff87d1": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Formula",
+            "heading_size": "medium",
+            "icon": "check_box",
+            "filled_icon": false,
+            "collapse_icon": "carret",
+            "display_top_border": true,
+            "open": false,
+            "content": "<p>Formulated with skin-supporting ingredients:</p><p>• Hydrolyzed Collagen – Supports skin elasticity and firmness<br/><br/>• Hyaluronic Acid – Deep hydration and plumping effect<br/><br/>• Peptides Complex – Helps improve skin texture<br/><br/>• Aloe Vera Extract – Soothes and nourishes<br/><br/>• Vitamin E – Antioxidant protection<br/><br/>• Glycerin – Moisture retention</p><p>Free from:<br/><br/>✘ Parabens<br/><br/>✘ Harsh alcohol<br/><br/>✘ Artificial dyes</p>",
+            "page": "",
+            "margin_top": 24,
+            "margin_bottom": 0
+          }
+        },
         "collapsible_tab_a6bKD4": {
           "type": "collapsible_tab",
           "settings": {
@@ -742,38 +774,6 @@
             "margin_bottom": 0
           }
         },
-        "de158e68-5d0d-4819-a625-e2dabdff87d1": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Formula",
-            "heading_size": "medium",
-            "icon": "check_box",
-            "filled_icon": false,
-            "collapse_icon": "carret",
-            "display_top_border": true,
-            "open": false,
-            "content": "<h2>Composition & Formula</h2><ul><li>Synthetic calming pheromones (cat-specific)</li></ul><p></p><ul><li>Odourless and non-toxic<br/></li><li>Drug-free & non-sedating<br/></li><li>Safe for cats of all ages<br/></li></ul><p>⚠️ Contains no essential oils, alcohol, or harmful chemicals.</p>",
-            "page": "",
-            "margin_top": 24,
-            "margin_bottom": 0
-          }
-        },
-        "collapsible_tab_RryeUb": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Details",
-            "heading_size": "medium",
-            "icon": "check_box",
-            "filled_icon": false,
-            "collapse_icon": "carret",
-            "display_top_border": true,
-            "open": false,
-            "content": "<p>Designed to support calm, balanced behaviour in cats, our pheromone diffuser helps reduce stress-related issues in a safe, natural way. It works continuously in the background to create a peaceful home environment — without sedation or medication.</p><p>Ideal for single or multi-cat households, rescues, and stressful situations such as moves or new pet introductions.</p>",
-            "page": "",
-            "margin_top": 24,
-            "margin_bottom": 0
-          }
-        },
         "collapsible_tab_iVEjdC": {
           "type": "collapsible_tab",
           "settings": {
@@ -784,7 +784,7 @@
             "collapse_icon": "carret",
             "display_top_border": true,
             "open": false,
-            "content": "<p>Cats communicate through pheromones. When stress appears, these signals disappear.</p><p>Our diffuser releases calming pheromones that help cats feel safe, relaxed, and secure — similar to how they feel around their mother as kittens.</p><p>Once plugged in, it works automatically 24/7 to support emotional balance throughout your home.</p>",
+            "content": "<ol><li>Shake well before use.<br/></li><li>Spray evenly onto clean, dry skin.<br/></li><li>Gently massage until fully absorbed.<br/></li><li>Use once or twice daily for best results.<br/></li></ol><p>For optimal results: apply consistently for at least 2–4 weeks.</p>",
             "page": "",
             "margin_top": 24,
             "margin_bottom": 0
@@ -825,9 +825,9 @@
         "description",
         "reviews_8UgFbe",
         "video_ckXUD8",
-        "collapsible_tab_a6bKD4",
-        "de158e68-5d0d-4819-a625-e2dabdff87d1",
         "collapsible_tab_RryeUb",
+        "de158e68-5d0d-4819-a625-e2dabdff87d1",
+        "collapsible_tab_a6bKD4",
         "collapsible_tab_iVEjdC",
         "collapsible_tab_tggUkb"
       ],
