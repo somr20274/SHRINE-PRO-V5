@@ -209,6 +209,7 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
+        "image": "shopify://shop_images/4d206e1e-9e20-4222-ba80-5c58305a97eb.png",
         "video_autoplay": true,
         "video_loop": true,
         "height": "adapt",
