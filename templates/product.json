@@ -1133,8 +1133,8 @@
           "settings": {
             "icon": "spa",
             "filled_icon": false,
-            "title": "Derm-Inspired Formula",
-            "text": "<p>No chemicals or medications</p>"
+            "title": "Equilibrio intestinal",
+            "text": "<p>Ayuda a mantener el equilibrio natural de tu microbiota</p>"
           }
         },
         "column_eFhKXB": {
@@ -1151,6 +1151,7 @@
         "column_UGG98D",
         "column_eFhKXB"
       ],
+      "disabled": true,
       "name": "Icon Bar",
       "settings": {
         "display_id": false,
@@ -1222,6 +1223,7 @@
         "column_YFLANh",
         "column_NRVmtC"
       ],
+      "disabled": true,
       "name": "Icon Bar",
       "settings": {
         "display_id": false,
