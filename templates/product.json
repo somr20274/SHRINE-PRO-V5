@@ -900,15 +900,15 @@
         "heading_cFNDpz": {
           "type": "heading",
           "settings": {
-            "title": "You’ve Spent Money on These Before… <strong>But They Don’t Work</strong>",
-            "title_highlight_color": "#a17a3d",
+            "title": "Has gastado dinero en esto antes… <strong>pero no funcionan</strong>",
+            "title_highlight_color": "#1c355f",
             "heading_size": "h2"
           }
         },
         "text_phBMUQ": {
           "type": "text",
           "settings": {
-            "text": "<p>– Creams that barely absorb<br/>– Collagen powders with no visible change<br/>– Expensive treatments you’re scared to try<br/>– Devices that collect dust</p><p>It’s not your fault.</p><p>Most products don’t address visible firmness effectively.</p>",
+            "text": "<p>-Tés digestivos que prometen aliviar la hinchazón</p><p>- Dietas restrictivas sin resultados duraderos<br/></p><p>- Probióticos con pocas cepas bacterianas<br/></p><p>- Suplementos digestivos que solo alivian temporalmente<br/></p><p>-Eliminar ciertos alimentos sin entender el problema real<br/></p><p>- Productos naturales que no equilibran realmente la microbiota</p>",
             "text_style": "body"
           }
         }
