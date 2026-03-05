@@ -1188,10 +1188,10 @@
         "mobile_arrows_position": "hidden",
         "padding_top": 36,
         "padding_bottom": 36,
-        "custom_colors_background": "#a17a3d",
+        "custom_colors_background": "#1c355f",
         "custom_gradient_background": "",
         "custom_colors_text": "#ffffff",
-        "custom_cards_colors_background": "#a17a3d",
+        "custom_cards_colors_background": "#1c355f",
         "custom_cards_gradient_background": "",
         "custom_cards_colors_text": "#ffffff"
       }
@@ -1259,10 +1259,10 @@
         "mobile_arrows_position": "hidden",
         "padding_top": 0,
         "padding_bottom": 36,
-        "custom_colors_background": "#a17a3d",
+        "custom_colors_background": "#1c355f",
         "custom_gradient_background": "",
         "custom_colors_text": "#ffffff",
-        "custom_cards_colors_background": "#a17a3d",
+        "custom_cards_colors_background": "#1c355f",
         "custom_cards_gradient_background": "",
         "custom_cards_colors_text": "#ffffff"
       }
