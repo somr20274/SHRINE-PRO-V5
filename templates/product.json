@@ -15,7 +15,7 @@
         "heading_AXQUTG": {
           "type": "heading",
           "settings": {
-            "title": "Look as Young as You Feel",
+            "title": "Vuelve a sentir tu vientre ligero cada día",
             "title_highlight_color": "#2e2a39",
             "heading_size": "h1"
           }
@@ -28,7 +28,6 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "image": "shopify://shop_images/h_JpJAOX1AWBk6rdN1ncT_618x_9ff559ff-a839-4dc1-abe5-71adc7b07bc8.png",
         "image_1_visibility": "always-display",
         "image_2_visibility": "always-display",
         "image_overlay_opacity": 0,
@@ -209,7 +208,6 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "image": "shopify://shop_images/6_benefices_6.png",
         "video_autoplay": true,
         "video_loop": true,
         "height": "adapt",
@@ -278,7 +276,6 @@
         "image_slide_fEzkH9": {
           "type": "image_slide",
           "settings": {
-            "image": "shopify://shop_images/58385a91f624447c8a2fc0410713bdbc.thumbnail.0000000000_700x_a72be210-1951-4328-9f6d-12e9caa6923b.jpg",
             "link": "",
             "description": "<p><strong>\"Worth every penny”</strong></p><p>After two pregnancies my stomach skin felt loose and thin. I’ve been using this every night for 3 weeks and I can genuinely see it looks tighter. </p>",
             "desc_alignment": "center",
@@ -288,7 +285,6 @@
         "image_slide_Fpi64X": {
           "type": "image_slide",
           "settings": {
-            "image": "shopify://shop_images/5b31aacc1f7e41868da956a63a78d346.thumbnail.0000000000_700x_a414d6ab-3b39-4bc8-a00e-226e45209b52.jpg",
             "link": "",
             "description": "<p><strong>\"Perfect for my arms”</strong><br/>My upper arms were my biggest insecurity. After about 2 weeks I noticed they look firmer and less crepey. It absorbs fast and doesn’t feel sticky at all. </p>",
             "desc_alignment": "center",
@@ -695,7 +691,6 @@
             "display_arrows": false,
             "display_dots": true,
             "author_1": "<em>Marlyn.O</em> [stars]",
-            "image_1": "shopify://shop_images/dSrdqjt-DqLzxknjKogqs_856x_91c67084-af42-43f4-bdbe-95212fe2f368.png",
             "text_1": "<p><strong>\"Confidence boost\"</strong></p><p><br/>I started using it before a beach trip and I felt way more confident in my swimsuit. My skin just looks tighter and healthier.</p>",
             "author_2": "",
             "text_2": "",
@@ -708,7 +703,6 @@
         "video_ckXUD8": {
           "type": "video",
           "settings": {
-            "video": "shopify://files/videos/5b31aacc1f7e41868da956a63a78d346.HD-1080p-7.2Mbps-65990265.mp4",
             "loop": true,
             "muted_autoplay": true,
             "display_play_btn": false,
@@ -926,7 +920,6 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "image": "shopify://shop_images/6_1060x_607a77dc-722a-4de3-a61d-cea871b258c7.png",
         "video_autoplay": true,
         "video_loop": true,
         "height": "adapt",
@@ -1019,7 +1012,6 @@
         "column_gqTgXH": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/13_400x400_b217e3f0-cea3-4968-ace4-08ad2accc922.webp",
             "muted_autoplay": true,
             "title": "My skin feels firmer",
             "text": "<p>I use it before bed and when I wake up my face looks slightly tighter and fresher. It absorbs quickly and layers well under my moisturizer.</p>",
@@ -1030,7 +1022,6 @@
         "column_EmBmM4": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/12_400x400_14069000-5fa7-4c78-8d4a-69246291b277.webp",
             "muted_autoplay": true,
             "title": "Perfect for early signs of sagging",
             "text": "<p>I don’t have deep wrinkles, but I noticed some loss of firmness around my cheeks. After consistent use, my skin looks more lifted and toned. It’s become part of my nightly routine.</p>",
@@ -1041,7 +1032,6 @@
         "column_fmzGXM": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/11_400x400_15a94169-b591-4d0a-bf2a-d9d0598e5505.webp",
             "muted_autoplay": true,
             "title": "Great for neck and lower face",
             "text": "<p>I mainly use it on my neck and lower face. It absorbs quickly and doesn’t irritate my sensitive skin. I’ve seen gradual tightening over 4 weeks.</p>",
@@ -1052,7 +1042,6 @@
         "column_wz3zC7": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/10_400x400_257bf4aa-b928-4e23-af9d-78832745bfea.webp",
             "muted_autoplay": true,
             "title": "My skin feels more elastic",
             "text": "<p>My skin had started to feel thinner. After using this spray daily, it feels more elastic and firm. I love how lightweight it is.</p>",
@@ -1285,7 +1274,6 @@
             "btn_label": "1. Spray onto clean skin",
             "btn_icon": "",
             "filled_btn_icon": false,
-            "image": "shopify://shop_images/h_JpJAOX1AWBk6rdN1ncT_618x_fbf99e39-0c01-49ff-99c5-89c9ca06b72d.png",
             "loop": false,
             "muted_autoplay": false,
             "btn_color_scheme": "accent-1",
@@ -1313,7 +1301,6 @@
             "btn_label": "<strong>2.Wait 30-60 seconds</strong>",
             "btn_icon": "",
             "filled_btn_icon": false,
-            "image": "shopify://shop_images/8CCoV11oMhp2AjSmVBZOW_618x_f7fef61d-7d04-4250-a217-20b406f00b91.png",
             "loop": false,
             "muted_autoplay": false,
             "btn_color_scheme": "accent-1",
@@ -1341,7 +1328,6 @@
             "btn_label": "3.See the magic",
             "btn_icon": "",
             "filled_btn_icon": false,
-            "image": "shopify://shop_images/t9GtaKRG4jL_s5RS18Ie_618x_70f56c37-142a-4b3e-aa5f-cea218a35fed.png",
             "loop": false,
             "muted_autoplay": false,
             "btn_color_scheme": "accent-1",
