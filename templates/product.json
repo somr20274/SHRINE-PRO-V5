@@ -777,14 +777,14 @@
         "collapsible_tab_iVEjdC": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "How it's work",
+            "heading": "Ingredientes",
             "heading_size": "medium",
             "icon": "check_box",
             "filled_icon": false,
             "collapse_icon": "carret",
             "display_top_border": true,
             "open": false,
-            "content": "<ol><li>Shake well before use.<br/></li><li>Spray evenly onto clean, dry skin.<br/></li><li>Gently massage until fully absorbed.<br/></li><li>Use once or twice daily for best results.<br/></li></ol><p>For optimal results: apply consistently for at least 2–4 weeks.</p>",
+            "content": "<h1>Cepas bacterianas</h1><p>B. bifidum AM96-11<br/><br/>B. bifidum AL77<br/><br/>B. adolescentis SP77<br/><br/>L. casei FB1<br/><br/>L. casei LC10<br/><br/>L. casei LC11<br/><br/>L. reuteri LR92<br/><br/>B. breve Bbr8<br/><br/>B. breve MG/SC<br/><br/>L. crispatus MD54<br/><br/>L. rhamnosus LRH01<br/><br/>L. rhamnosus LRH05<br/><br/>L. rhamnosus LRH14<br/><br/>L. rhamnosus AP93.9<br/><br/>L. rhamnosus ALL8.9<br/><br/>L. rhamnosus IMC 501<br/><br/>L. rhamnosus LRH58<br/><br/>L. rhamnosus MH8<br/><br/>L. acidophilus LSD6.7<br/><br/>L. acidophilus LA1<br/><br/>L. plantarum MW8<br/><br/>L. plantarum LB931<br/><br/>L. plantarum VD27<br/><br/>L. plantarum LP48<br/><br/>P. acidilactici PA09<br/><br/>P. pentosaceus GP08<br/><br/>L. brevis SP48<br/><br/>L. delbrueckii ssp. lactis LL82<br/><br/>B. longum ssp. longum SP54<br/><br/>L. fermentum PGP1.2<br/><br/>L. fermentum PPD2.4<br/><br/>L. salivarius SP2<br/><br/>B. animalis ssp. lactis JB11<br/><br/>B. animalis ssp. lactis AM11.5<br/><br/>L. lactis ssp. lactis MA-24<br/><br/>L. lactis ssp. lactis SP47<br/><br/>L. lactis ssp. lactis SD13<br/><br/>L. lactis ssp. lactis SL97<br/><br/>L. helveticus SP27<br/><br/>L. helveticus LH102<br/><br/>S. thermophilus WP22<br/><br/>S. thermophilus JB36<br/><br/>S. thermophilus ST628<br/><br/>L. buchneri LBC01<br/><br/>L. delbrueckii ssp. bulgaricus LB2<br/><br/>L. delbrueckii ssp. bulgaricus LB284<br/><br/>L. paracasei JB08<br/><br/>L. paracasei 101/37<br/><br/>L. paracasei BGP1<br/><br/>L. paracasei BGP2<br/><br/>L. paracasei LPC43<br/><br/>L. sakei JD25<br/><br/>L. sakei LSK14</p>",
             "page": "",
             "margin_top": 24,
             "margin_bottom": 0
