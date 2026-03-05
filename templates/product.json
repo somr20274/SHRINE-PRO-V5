@@ -1723,30 +1723,30 @@
         "collapsible_row_NWPtfW": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "How often should I use it?",
+            "heading": "¿Cuánto tiempo debo tomar K53 Advance?",
             "icon": "check_box",
             "filled_icon": false,
-            "row_content": "<p>For best results, apply once or twice daily on clean, dry skin and gently massage until absorbed.</p>",
+            "row_content": "<p>Para obtener los mejores resultados, se recomienda tomar el producto de forma regular durante varias semanas.</p>",
             "page": ""
           }
         },
         "collapsible_row_kwCprL": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Is it sticky or greasy?",
+            "heading": "¿Puedo tomar K53 Advance todos los días?",
             "icon": "check_box",
             "filled_icon": false,
-            "row_content": "<p>No. The lightweight mist absorbs quickly and leaves no heavy or sticky residue.</p>",
+            "row_content": "<p>Sí, K53 Advance está diseñado para tomarse diariamente siguiendo la dosis recomendada.</p>",
             "page": ""
           }
         },
         "collapsible_row_y9dQzx": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Can I use it with other skincare products?",
+            "heading": "¿Quién puede tomar K53 Advance?",
             "icon": "check_box",
             "filled_icon": false,
-            "row_content": "<p>Yes. It can be layered under your regular moisturizer or body lotion.</p>",
+            "row_content": "<p>K53 Advance está pensado para adultos que desean apoyar el equilibrio de su microbiota intestinal.</p>",
             "page": ""
           }
         },
@@ -1763,6 +1763,7 @@
         },
         "collapsible_row_ytM8cJ": {
           "type": "collapsible_row",
+          "disabled": true,
           "settings": {
             "heading": "Do you offer a guarantee?",
             "icon": "check_box",
