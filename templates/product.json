@@ -790,6 +790,22 @@
             "margin_bottom": 0
           }
         },
+        "collapsible_tab_kQjBh7": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "¿Cómo se toma K53 Advance?",
+            "heading_size": "medium",
+            "icon": "check_box",
+            "filled_icon": false,
+            "collapse_icon": "carret",
+            "display_top_border": true,
+            "open": false,
+            "content": "<p>Tomar <strong>1 cápsula al día</strong>, sin masticar, con una cantidad suficiente de líquido durante una de las comidas principales.</p><p>En el caso de los niños pequeños, existe riesgo de atragantamiento al ingerir cápsulas. Por ello, se recomienda <strong>abrir la cápsula y mezclar el contenido con líquido</strong> antes de su consumo.</p><p><strong>No contiene gluten, fructosa ni lactosa</strong>, y está <strong>libre de aditivos, conservantes, aromas y edulcorantes.</strong></p>",
+            "page": "",
+            "margin_top": 24,
+            "margin_bottom": 0
+          }
+        },
         "collapsible_tab_tggUkb": {
           "type": "collapsible_tab",
           "settings": {
@@ -829,6 +845,7 @@
         "de158e68-5d0d-4819-a625-e2dabdff87d1",
         "collapsible_tab_a6bKD4",
         "collapsible_tab_iVEjdC",
+        "collapsible_tab_kQjBh7",
         "collapsible_tab_tggUkb"
       ],
       "custom_css": [],
