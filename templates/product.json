@@ -705,26 +705,6 @@
             "margin_bottom": 24
           }
         },
-        "video_ckXUD8": {
-          "type": "video",
-          "settings": {
-            "loop": true,
-            "muted_autoplay": true,
-            "display_play_btn": false,
-            "btn_animation": false,
-            "btn_color_scheme": "accent-1",
-            "display_sound_btn": false,
-            "sound_btn_color_scheme": "inverse",
-            "display_timeline": false,
-            "timeline_color": "accent-1",
-            "width": 100,
-            "Full_mobile_width": false,
-            "alignment": "center",
-            "border_radius": 0,
-            "margin_top": 15,
-            "margin_bottom": 15
-          }
-        },
         "collapsible_tab_RryeUb": {
           "type": "collapsible_tab",
           "settings": {
@@ -840,7 +820,6 @@
         "e7a28cbe-03cb-4c9d-a2c4-0e3e76ffb3e5",
         "description",
         "reviews_8UgFbe",
-        "video_ckXUD8",
         "collapsible_tab_RryeUb",
         "de158e68-5d0d-4819-a625-e2dabdff87d1",
         "collapsible_tab_a6bKD4",
@@ -942,6 +921,7 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
+        "image": "shopify://shop_images/Picture.webp",
         "video_autoplay": true,
         "video_loop": true,
         "height": "adapt",
