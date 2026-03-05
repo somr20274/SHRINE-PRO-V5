@@ -278,8 +278,9 @@
         "image_slide_fEzkH9": {
           "type": "image_slide",
           "settings": {
+            "image": "shopify://shop_images/K53A_3.png",
             "link": "",
-            "description": "<p><strong>\"Worth every penny”</strong></p><p>After two pregnancies my stomach skin felt loose and thin. I’ve been using this every night for 3 weeks and I can genuinely see it looks tighter. </p>",
+            "description": "<p><strong>\"Menos hinchazón desde la primera semana\"</strong></p><p><br/>Desde que empecé a tomarlo mi vientre ya no está tan hinchado después de comer. Me siento mucho más ligera durante el día.</p>",
             "desc_alignment": "center",
             "desc_color_scheme": "background-2"
           }
@@ -287,8 +288,9 @@
         "image_slide_Fpi64X": {
           "type": "image_slide",
           "settings": {
+            "image": "shopify://shop_images/K53A_2.png",
             "link": "",
-            "description": "<p><strong>\"Perfect for my arms”</strong><br/>My upper arms were my biggest insecurity. After about 2 weeks I noticed they look firmer and less crepey. It absorbs fast and doesn’t feel sticky at all. </p>",
+            "description": "<p><strong>\"igestión mucho más ligera\"</strong><br/><br/>Después de unas semanas noté una gran diferencia. Menos gases y una digestión mucho más cómoda</p>",
             "desc_alignment": "center",
             "desc_color_scheme": "background-2"
           }
