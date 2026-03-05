@@ -728,14 +728,14 @@
         "collapsible_tab_RryeUb": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Details",
+            "heading": "Descrizione",
             "heading_size": "medium",
             "icon": "check_box",
             "filled_icon": false,
             "collapse_icon": "carret",
             "display_top_border": true,
             "open": false,
-            "content": "<p><strong>Firming Collagen Spray</strong> is a lightweight, fast-absorbing formula designed to visibly improve skin firmness and elasticity.</p><p>✔ Helps improve the appearance of loose or sagging skin<br/><br/>✔ Supports skin elasticity<br/><br/>✔ Hydrates and smooths texture<br/><br/>✔ Lightweight mist formula<br/><br/>✔ Suitable for stomach, arms, neck & thighs</p><p>Size: 50ml / 1.7oz<br/><br/>Skin Type: All skin types</p>",
+            "content": "<p>La microbiota es el conjunto de microorganismos que habitan en nuestros intestinos. Al igual que un bosque tropical, la microbiota es un ecosistema complejo que funciona gracias a la interacción equilibrada de todos los microorganismos que la componen. Cuando disminuyen la cantidad y la diversidad de bacterias beneficiosas, la microbiota intestinal puede alterarse. A esto se le denomina disbiosis intestinal.</p><p><strong>K53 Advance en resumen:</strong></p><p>• <strong>Alta diversidad:</strong> 53 cepas bacterianas cuidadosamente seleccionadas.<br/><br/>• <strong>Alta dosis:</strong> más de 500 mil millones de bacterias por envase, el equivalente a más de 25 kg de yogur.<br/><br/>• <strong>Apoya el mantenimiento de una mucosa intestinal sana</strong> gracias a la biotina (vitamina B7) y la niacina (vitamina B3).</p>",
             "page": "",
             "margin_top": 24,
             "margin_bottom": 0
@@ -744,14 +744,14 @@
         "de158e68-5d0d-4819-a625-e2dabdff87d1": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Formula",
+            "heading": "La ciencia detrás de nuestra fórmula",
             "heading_size": "medium",
             "icon": "check_box",
             "filled_icon": false,
             "collapse_icon": "carret",
             "display_top_border": true,
             "open": false,
-            "content": "<p>Formulated with skin-supporting ingredients:</p><p>• Hydrolyzed Collagen – Supports skin elasticity and firmness<br/><br/>• Hyaluronic Acid – Deep hydration and plumping effect<br/><br/>• Peptides Complex – Helps improve skin texture<br/><br/>• Aloe Vera Extract – Soothes and nourishes<br/><br/>• Vitamin E – Antioxidant protection<br/><br/>• Glycerin – Moisture retention</p><p>Free from:<br/><br/>✘ Parabens<br/><br/>✘ Harsh alcohol<br/><br/>✘ Artificial dyes</p>",
+            "content": "<h1>Un ecosistema complejo</h1><p>La microbiota es el conjunto de todos los microorganismos que habitan en nuestro intestino.</p><p>Al igual que una selva tropical, la microbiota es un ecosistema complejo que solo funciona gracias a la interacción equilibrada de todos los organismos que la componen.</p><h1>Una diversidad única</h1><p>Con K53 Advance, nuestros investigadores han combinado <strong>53 cepas bacterianas cuidadosamente seleccionadas</strong> en una composición única, más que en cualquier otro producto con bacterias conocido en el mercado.</p><p>Cada cepa posee características específicas. Solo a través de una interacción equilibrada entre ellas la fórmula alcanza todo su potencial.</p><h1>Alta dosis</h1><p>Cada cápsula de K53 Advance contiene <strong>más de 20 mil millones de unidades formadoras de colonias (UFC)</strong>.</p><p>Esta dosis elevada está garantizada <strong>hasta la fecha de caducidad</strong>.</p><p>Un envase contiene <strong>más bacterias que las presentes en 25 kg de yogur</strong>.</p><h1>Altos estándares de producción</h1><p>K53 Advance se produce exclusivamente en instalaciones con <strong>certificación GMP</strong>.</p><p>Las normas GMP establecen <strong>altos estándares de calidad y seguridad</strong> en los procesos de fabricación.</p><h1>Estabilidad garantizada</h1><p>Cada cápsula se conserva en un <strong>blíster de aluminio especialmente diseñado</strong> para proteger las cepas bacterianas.</p><p>Esto garantiza que <strong>la diversidad y la dosis total de bacterias se mantengan intactas hasta el momento de su consumo</strong>.</p><p>En otros envases, como los de vidrio o plástico, las bacterias pueden no estar suficientemente protegidas de la humedad.</p><p>Como resultado, muchas bacterias valiosas pueden perderse antes de ser consumidas.</p><h1>Máxima calidad</h1><p>Para garantizar altos estándares de calidad, <strong>cada lote se analiza según 13 parámetros antes de su aprobación</strong>.</p>",
             "page": "",
             "margin_top": 24,
             "margin_bottom": 0
