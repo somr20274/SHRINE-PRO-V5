@@ -1357,6 +1357,7 @@
         "tab_xPdGF8",
         "tab_wXadqf"
       ],
+      "disabled": true,
       "name": "Content tabs",
       "settings": {
         "display_id": false,
