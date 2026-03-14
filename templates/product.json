@@ -270,6 +270,107 @@
         "custom_colors_outline_button": "#dd1d1d"
       }
     },
+    "image_slider_JPwJxM": {
+      "type": "image-slider",
+      "blocks": {
+        "video_slide_me9Ezb": {
+          "type": "video_slide",
+          "settings": {
+            "video": "shopify://files/videos/69b4eac5a8094fc6895762d4bcb965f7.SD-480p-1.2Mbps-60137865.mp4",
+            "loop": true,
+            "muted_autoplay": true,
+            "display_play_btn": true,
+            "btn_animation": false,
+            "btn_color_scheme": "accent-1",
+            "display_sound_btn": false,
+            "sound_btn_color_scheme": "inverse",
+            "display_timeline": false,
+            "timeline_color": "accent-1",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        }
+      },
+      "block_order": [
+        "video_slide_me9Ezb"
+      ],
+      "name": "Image/Video Slider",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "",
+        "title_highlight_color": "#6D388B",
+        "heading_size": "h1",
+        "color_scheme": "background-1",
+        "type": "slide",
+        "drag": "enabled",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "center_mode": false,
+        "arrows_color_scheme": "inverse",
+        "transparent_arrows": false,
+        "dots_color_scheme": "inverse",
+        "desktop_full_page": true,
+        "desktop_border_radius": 0,
+        "slides_desktop": 3,
+        "per_move_desktop": 1,
+        "desktop_spacing": 28,
+        "desktop_side_padding": 0,
+        "desktop_padding_calc": true,
+        "desktop_adaptive_height": false,
+        "desktop_dots_position": "hidden",
+        "desktop_arrows_position": "hidden",
+        "mobile_full_page": true,
+        "mobile_border_radius": 0,
+        "slides_mobile": 1,
+        "per_move_mobile": 1,
+        "mobile_spacing": 12,
+        "mobile_side_padding": 0,
+        "mobile_padding_calc": true,
+        "mobile_adaptive_height": false,
+        "mobile_dots_position": "hidden",
+        "mobile_arrows_position": "hidden",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#121212"
+      }
+    },
+    "rich_text_W76TBz": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_PqT4xN": {
+          "type": "heading",
+          "settings": {
+            "title": "A ellas les encantó!",
+            "title_highlight_color": "#6d388b",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_PqT4xN"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "full_width": true,
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d"
+      }
+    },
     "image_slider_T9QQLt": {
       "type": "image-slider",
       "blocks": {
@@ -1850,6 +1951,8 @@
     "rich_text_xrcNRt",
     "image_with_text_hwpdiN",
     "rich_text_kRAmtX",
+    "image_slider_JPwJxM",
+    "rich_text_W76TBz",
     "image_slider_T9QQLt",
     "main",
     "related-products",
