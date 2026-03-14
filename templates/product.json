@@ -348,10 +348,23 @@
             "title_highlight_color": "#6d388b",
             "heading_size": "h1"
           }
+        },
+        "trustpilot_stars_9rBqbi": {
+          "type": "trustpilot_stars",
+          "settings": {
+            "rating": 4,
+            "star_color": "#00b67a",
+            "bg_star_color": "#c8c8c8",
+            "star_symbol_color": "#ffffff",
+            "label": "(xxxx Reviews)",
+            "size": 16,
+            "scroll_id": ""
+          }
         }
       },
       "block_order": [
-        "heading_PqT4xN"
+        "heading_PqT4xN",
+        "trustpilot_stars_9rBqbi"
       ],
       "name": "t:sections.rich-text.presets.name",
       "settings": {
