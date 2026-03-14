@@ -28,7 +28,6 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "image": "shopify://shop_images/Could_I_have_endometriosis.avif",
         "image_1_visibility": "always-display",
         "image_2_visibility": "always-display",
         "image_overlay_opacity": 0,
@@ -209,7 +208,6 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "image": "shopify://shop_images/4d206e1e-9e20-4222-ba80-5c58305a97eb.png",
         "video_autoplay": true,
         "video_loop": true,
         "height": "adapt",
@@ -278,7 +276,7 @@
         "image_slide_fEzkH9": {
           "type": "image_slide",
           "settings": {
-            "image": "shopify://shop_images/K53A_3.png",
+            "image": "shopify://shop_images/4_5c0278c6-2ef8-4448-92cb-7aef429db591.png",
             "link": "",
             "description": "<p><strong>\"Menos hinchazón desde la primera semana\"</strong></p><p><br/>Desde que empecé a tomarlo mi vientre ya no está tan hinchado después de comer. Me siento mucho más ligera durante el día.</p>",
             "desc_alignment": "center",
@@ -288,7 +286,7 @@
         "image_slide_Fpi64X": {
           "type": "image_slide",
           "settings": {
-            "image": "shopify://shop_images/K53A_2.png",
+            "image": "shopify://shop_images/Premiers_avis_-_Steameo-_PLAQUE.png",
             "link": "",
             "description": "<p><strong>\"igestión mucho más ligera\"</strong><br/><br/>Después de unas semanas noté una gran diferencia. Menos gases y una digestión mucho más cómoda</p>",
             "desc_alignment": "center",
@@ -921,7 +919,6 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "image": "shopify://shop_images/Picture.webp",
         "video_autoplay": true,
         "video_loop": true,
         "height": "adapt",
