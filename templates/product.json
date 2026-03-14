@@ -292,11 +292,22 @@
             "desc_alignment": "center",
             "desc_color_scheme": "background-2"
           }
+        },
+        "image_slide_6RVxx8": {
+          "type": "image_slide",
+          "settings": {
+            "image": "shopify://shop_images/7.png",
+            "link": "",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
         }
       },
       "block_order": [
         "image_slide_fEzkH9",
-        "image_slide_Fpi64X"
+        "image_slide_Fpi64X",
+        "image_slide_6RVxx8"
       ],
       "name": "Image/Video Slider",
       "settings": {
@@ -332,7 +343,7 @@
         "mobile_side_padding": 0,
         "mobile_padding_calc": true,
         "mobile_adaptive_height": true,
-        "mobile_dots_position": "hidden",
+        "mobile_dots_position": "over",
         "mobile_arrows_position": "under",
         "padding_top": 36,
         "padding_bottom": 36,
