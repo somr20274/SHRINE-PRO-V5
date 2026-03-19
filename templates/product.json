@@ -1428,6 +1428,7 @@
         "heading_cFNDpz",
         "text_phBMUQ"
       ],
+      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "display_id": false,
