@@ -1017,6 +1017,154 @@
         "padding_bottom": 24
       }
     },
+    "comparison_table_4N93TC": {
+      "type": "comparison-table",
+      "blocks": {
+        "row_Rrg9VR": {
+          "type": "row",
+          "settings": {
+            "benefit": "Protege a tus hijos y mascotas (sin productos tóxicos)",
+            "us": true,
+            "others": false,
+            "others_2": false,
+            "others_3": false
+          }
+        },
+        "row_QGNHfB": {
+          "type": "row",
+          "settings": {
+            "benefit": "Elimina el 99.9% de las bacterias",
+            "us": true,
+            "others": false,
+            "others_2": false,
+            "others_3": false
+          }
+        },
+        "row_Ezd4RR": {
+          "type": "row",
+          "settings": {
+            "benefit": "Ahorra tiempo: 3 veces más rápido",
+            "us": true,
+            "others": false,
+            "others_2": false,
+            "others_3": false
+          }
+        },
+        "row_EQYWBH": {
+          "type": "row",
+          "settings": {
+            "benefit": "Económico: ya no necesitas limpiadores domésticos",
+            "us": true,
+            "others": false,
+            "others_2": false,
+            "others_3": false
+          }
+        },
+        "row_GbLctB": {
+          "type": "row",
+          "settings": {
+            "benefit": "Sin olor e hipoalergénico100% ecológico (solo vapor puro)",
+            "us": true,
+            "others": false,
+            "others_2": false,
+            "others_3": false
+          }
+        },
+        "row_iJbDPA": {
+          "type": "row",
+          "settings": {
+            "benefit": "Protege tus superficies delicadas",
+            "us": true,
+            "others": false,
+            "others_2": false,
+            "others_3": false
+          }
+        },
+        "row_MC3DPV": {
+          "type": "row",
+          "settings": {
+            "benefit": "Resultados profesionales en todo momento",
+            "us": true,
+            "others": false,
+            "others_2": false,
+            "others_3": false
+          }
+        }
+      },
+      "block_order": [
+        "row_Rrg9VR",
+        "row_QGNHfB",
+        "row_Ezd4RR",
+        "row_EQYWBH",
+        "row_GbLctB",
+        "row_iJbDPA",
+        "row_MC3DPV"
+      ],
+      "name": "Comparison table",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "Comparison table",
+        "title_highlight_color": "#6D388B",
+        "heading_size": "h1",
+        "text": "<p>Talk about how and why is your brand better than the others.</p>",
+        "button_label": "",
+        "link": "",
+        "button_style_secondary": false,
+        "atc_button_label": "",
+        "atc_product": "",
+        "atc_skip_cart": false,
+        "desktop_alignment": "center",
+        "mobile_alignment": "center",
+        "color_scheme": "background-1",
+        "layout": "table_second",
+        "style": "classic",
+        "corner_radius": 20,
+        "number_of_competitors": 1,
+        "us_label": "[shop_name]",
+        "us_label_size": 18,
+        "logo_width": 90,
+        "mobile_logo_width": 60,
+        "others_label": "Others",
+        "others_label_size": 18,
+        "others_logo_width": 90,
+        "others_mobile_logo_width": 60,
+        "others_2_label": "Competitor 2",
+        "others_2_label_size": 18,
+        "others_2_logo_width": 90,
+        "others_2_mobile_logo_width": 60,
+        "others_3_label": "Competitor 3",
+        "others_3_label_size": 18,
+        "others_3_logo_width": 90,
+        "others_3_mobile_logo_width": 60,
+        "checkmark_style": "regular",
+        "checkmark_color": "#53AF01",
+        "checkmark_bg_color": "#53AF01",
+        "x_style": "regular",
+        "x_color": "#ff0000",
+        "x_bg_color": "#DBDBDB",
+        "opposite_icon_colors": "original",
+        "highlighted_color_scheme": "accent-1",
+        "highlighted_separator_opacity": 0,
+        "highlighted_overlay_opacity": 0,
+        "other_cells_color_scheme": "background-1",
+        "regular_separator_opacity": 10,
+        "regular_overlay_opacity": 0,
+        "minimalistic_border_opacity": 16,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d",
+        "custom_colors_highlighted_background": "#2E2A39",
+        "custom_colors_highlighted_text": "#FFFFFF",
+        "custom_colors_others_background": "#FFFFFF",
+        "custom_colors_others_text": "#2E2A39"
+      }
+    },
     "image_slider_8z4cCT": {
       "type": "image-slider",
       "blocks": {
@@ -2084,6 +2232,7 @@
     "image_slider_T9QQLt",
     "main",
     "related-products",
+    "comparison_table_4N93TC",
     "image_slider_8z4cCT",
     "image_with_text_UHHiUr",
     "horizontal_ticker_YTYKUR",
