@@ -716,10 +716,29 @@
             "margin_bottom": 15
           }
         },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "skip_cart": true,
+            "uppercase_text": true,
+            "icon_scale": 120,
+            "icon_spacing": 10,
+            "display_price": false,
+            "enable_custom_color": false,
+            "custom_color": "#53af01",
+            "enable_secondary_btn": false,
+            "secondary_btn_label": "Buy It Now",
+            "secondary_btn_enable_custom_color": false,
+            "secondary_btn_custom_color": "#dd1d1d",
+            "margin_top": 24,
+            "margin_bottom": 24
+          }
+        },
         "bundle_offer_NhMPrD": {
           "type": "bundle_offer",
           "settings": {
-            "type": "main",
+            "type": "separate",
             "include_pdp_upsells": false,
             "title_text": "Kit completo Limpiadora a vapor + 9 accesorios + 10 paños de microfibra de alto rendimiento",
             "heading_size": "h4",
@@ -736,7 +755,7 @@
             "total_price_text": "<strong>Total: 79.98€</strong>",
             "total_price_benefit": "",
             "benefit_color": "accent-1",
-            "button_label": "GRAB THIS DEAL",
+            "button_label": "APROVECHA ESTA OFERTA",
             "update_prices": false,
             "percentage_discount": "0",
             "fixed_amount_discount": "0",
@@ -757,8 +776,8 @@
             "product_1_desc": "",
             "product_1_percentage_discount": "0",
             "product_1_fixed_amount_discount": "0",
-            "product_1_top_padding": "pt-auto",
-            "product_1_bottom_padding": "pb-auto",
+            "product_1_top_padding": "pt-0",
+            "product_1_bottom_padding": "pb-0",
             "product_2": "10-panos-de-microfibra-de-alto-rendimiento",
             "product_2_desc": "",
             "product_2_percentage_discount": "0",
@@ -773,25 +792,6 @@
             "product_3_bottom_padding": "pb-auto",
             "margin_top": 21,
             "margin_bottom": 21
-          }
-        },
-        "buy_buttons": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": false,
-            "skip_cart": true,
-            "uppercase_text": true,
-            "icon_scale": 120,
-            "icon_spacing": 10,
-            "display_price": false,
-            "enable_custom_color": false,
-            "custom_color": "#53af01",
-            "enable_secondary_btn": false,
-            "secondary_btn_label": "Buy It Now",
-            "secondary_btn_enable_custom_color": false,
-            "secondary_btn_custom_color": "#dd1d1d",
-            "margin_top": 24,
-            "margin_bottom": 24
           }
         },
         "payment_badges_XkY8VC": {
@@ -998,8 +998,8 @@
         "urgency_CLJc6x",
         "5fcc0428-e768-4cb7-bea3-eb0274198dd1",
         "04ba004e-2f54-4936-8b1c-8bcadf6573f6",
-        "bundle_offer_NhMPrD",
         "buy_buttons",
+        "bundle_offer_NhMPrD",
         "payment_badges_XkY8VC",
         "estimated_shipping_LApmxB",
         "e7a28cbe-03cb-4c9d-a2c4-0e3e76ffb3e5",
