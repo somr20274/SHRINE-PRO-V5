@@ -1127,7 +1127,7 @@
         "mobile_arrows_position": "under",
         "padding_top": 36,
         "padding_bottom": 36,
-        "custom_colors_background": "#FFFFFF",
+        "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
         "custom_colors_text": "#121212"
       }
@@ -1220,7 +1220,7 @@
         "display_id": false,
         "visibility": "always-display",
         "title": "¿Por qué elegir ENOAA ?",
-        "title_highlight_color": "#6D388B",
+        "title_highlight_color": "#6d388b",
         "heading_size": "h1",
         "text": "",
         "button_label": "",
@@ -1253,11 +1253,11 @@
         "others_3_logo_width": 90,
         "others_3_mobile_logo_width": 60,
         "checkmark_style": "regular",
-        "checkmark_color": "#53AF01",
-        "checkmark_bg_color": "#53AF01",
+        "checkmark_color": "#53af01",
+        "checkmark_bg_color": "#53af01",
         "x_style": "regular",
         "x_color": "#ff0000",
-        "x_bg_color": "#DBDBDB",
+        "x_bg_color": "#dbdbdb",
         "opposite_icon_colors": "original",
         "highlighted_color_scheme": "accent-1",
         "highlighted_separator_opacity": 0,
@@ -1268,16 +1268,16 @@
         "minimalistic_border_opacity": 16,
         "padding_top": 36,
         "padding_bottom": 36,
-        "custom_colors_background": "#FFFFFF",
+        "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39",
+        "custom_colors_text": "#2e2a39",
         "custom_colors_solid_button_background": "#dd1d1d",
         "custom_colors_solid_button_text": "#ffffff",
         "custom_colors_outline_button": "#dd1d1d",
-        "custom_colors_highlighted_background": "#2E2A39",
-        "custom_colors_highlighted_text": "#FFFFFF",
-        "custom_colors_others_background": "#FFFFFF",
-        "custom_colors_others_text": "#2E2A39"
+        "custom_colors_highlighted_background": "#2e2a39",
+        "custom_colors_highlighted_text": "#ffffff",
+        "custom_colors_others_background": "#ffffff",
+        "custom_colors_others_text": "#2e2a39"
       }
     },
     "image_with_text_UHHiUr": {
@@ -2068,81 +2068,80 @@
         "collapsible_row_eUkiL6": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "¿Cómo funciona K53 Advance?",
+            "heading": "¿Cómo funciona el limpiador a vapor?",
             "icon": "check_box",
             "filled_icon": false,
-            "row_content": "<p>K53 Advance es un complemento alimenticio que contiene <strong>53 cepas bacterianas seleccionadas de la microbiota intestinal natural</strong>. Además, gracias a la <strong>biotina</strong>, contribuye al metabolismo normal de los macronutrientes.</p><p>Nuestros investigadores han combinado <strong>53 cepas bacterianas en una fórmula única</strong>, más que en cualquier otro preparado con bacterias conocido en el mercado.</p><p>Cada cepa posee características específicas. Solo a través de su interacción equilibrada la fórmula puede alcanzar todo su potencial.</p><p>Cada cápsula contiene <strong>más de 20 mil millones de unidades formadoras de colonias (UFC)</strong>.</p><p>Esta dosis elevada está garantizada <strong>hasta la fecha de caducidad</strong>. Un envase contiene <strong>más bacterias que las presentes en 25 kg de yogur</strong>.</p><p>La <strong>biotina (vitamina B7)</strong> contribuye al metabolismo normal de los macronutrientes y al metabolismo energético normal.<br/><br/>La <strong>biotina (vitamina B7)</strong> y la <strong>niacina (vitamina B3)</strong> contribuyen al mantenimiento de las mucosas en condiciones normales.</p>",
+            "row_content": "<p>El dispositivo calienta el agua para generar vapor a alta presión. Este vapor elimina la suciedad, la grasa y las bacterias sin necesidad de productos químicos.</p>",
             "page": ""
           }
         },
         "collapsible_row_dV6Hny": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "¿K53 Advance es bien tolerado?",
+            "heading": "¿Necesito usar productos de limpieza?",
             "icon": "check_box",
             "filled_icon": false,
-            "row_content": "<p>K53 Advance está formulado con cepas bacterianas cuidadosamente seleccionadas y generalmente es <strong>bien tolerado</strong>.<br/><br/>Si tienes dudas o condiciones médicas específicas, se recomienda consultar con un profesional de la salud antes de su consumo.</p>",
+            "row_content": "<p>No, solo necesitas agua. El vapor es suficiente para limpiar y desinfectar eficazmente.</p>",
             "page": ""
           }
         },
         "collapsible_row_zyqXjG": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "¿Cómo se conserva K53 Advance?",
+            "heading": "¿En qué superficies se puede usar?",
             "icon": "check_box",
             "filled_icon": false,
-            "row_content": "<p>Se recomienda conservar el producto <strong>en un lugar fresco y seco</strong>, protegido de la luz directa y fuera del alcance de los niños.</p>",
+            "row_content": "<p>Puedes usarlo en múltiples superficies: cocina, baño, azulejos, juntas, sofás, colchones, ventanas, coche y más.</p>",
             "page": ""
           }
         },
         "collapsible_row_tmk4wz": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "¿Cómo se toma K53 Advance?",
+            "heading": "¿Es seguro para niños y mascotas?",
             "icon": "check_box",
             "filled_icon": false,
-            "row_content": "<p>Tomar 1 cápsula al día, sin masticar, con una cantidad suficiente de líquido durante una de las comidas principales.En el caso de niños pequeños, se recomienda abrir la cápsula y mezclar su contenido con líquido antes de consumirla para evitar riesgo de atragantamiento.</p>",
+            "row_content": "<p>Sí, al no utilizar productos químicos es una opción más segura para hogares con niños y mascotas.</p>",
             "page": ""
           }
         },
         "collapsible_row_NWPtfW": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "¿Cuánto tiempo debo tomar K53 Advance?",
+            "heading": "¿Cuánto tarda en calentarse?",
             "icon": "check_box",
             "filled_icon": false,
-            "row_content": "<p>Para obtener los mejores resultados, se recomienda tomar el producto de forma regular durante varias semanas.</p>",
+            "row_content": "<p>El dispositivo se calienta en pocos segundos, permitiendo un uso rápido y práctico en cualquier momento</p>",
             "page": ""
           }
         },
         "collapsible_row_kwCprL": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "¿Puedo tomar K53 Advance todos los días?",
+            "heading": "¿Elimina realmente bacterias?",
             "icon": "check_box",
             "filled_icon": false,
-            "row_content": "<p>Sí, K53 Advance está diseñado para tomarse diariamente siguiendo la dosis recomendada.</p>",
+            "row_content": "<p>Sí, el vapor a alta temperatura ayuda a eliminar bacterias y gérmenes de forma natural.</p>",
             "page": ""
           }
         },
         "collapsible_row_y9dQzx": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "¿Quién puede tomar K53 Advance?",
+            "heading": "¿Es fácil de usar?",
             "icon": "check_box",
             "filled_icon": false,
-            "row_content": "<p>K53 Advance está pensado para adultos que desean apoyar el equilibrio de su microbiota intestinal.</p>",
+            "row_content": "<p>Sí, es muy sencillo: llenar con agua, encender y limpiar. No requiere experiencia.</p>",
             "page": ""
           }
         },
         "collapsible_row_ggmFJm": {
           "type": "collapsible_row",
-          "disabled": true,
           "settings": {
-            "heading": "Is it suitable for all skin types?",
+            "heading": "Cuánto dura el vapor?",
             "icon": "check_box",
             "filled_icon": false,
-            "row_content": "<p>It works best for normal, dry and combination skin. Those with very oily skin may prefer to set it lightly with powder.</p>",
+            "row_content": "<p>Depende del uso, pero el depósito permite varios minutos de limpieza continua.</p>",
             "page": ""
           }
         },
@@ -2150,10 +2149,10 @@
           "type": "collapsible_row",
           "disabled": true,
           "settings": {
-            "heading": "Do you offer a guarantee?",
+            "heading": "¿Ofrecen garantía?",
             "icon": "check_box",
             "filled_icon": false,
-            "row_content": "<p>Yes. We offer a 30-day satisfaction guarantee so you can try it with confidence.</p>",
+            "row_content": "<p>Sí, ofrecemos una garantía de satisfacción de 30 días. Si no estás satisfecho, te devolvemos el dinero.</p>",
             "page": ""
           }
         }
