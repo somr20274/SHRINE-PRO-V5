@@ -1104,10 +1104,10 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "title": "Comparison table",
+        "title": "¿Por qué elegir ENOAA ?",
         "title_highlight_color": "#6D388B",
         "heading_size": "h1",
-        "text": "<p>Talk about how and why is your brand better than the others.</p>",
+        "text": "",
         "button_label": "",
         "link": "",
         "button_style_secondary": false,
