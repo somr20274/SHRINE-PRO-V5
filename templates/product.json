@@ -831,14 +831,14 @@
         "collapsible_tab_RryeUb": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Descrizione",
+            "heading": "Los beneficios",
             "heading_size": "medium",
             "icon": "check_box",
             "filled_icon": false,
             "collapse_icon": "carret",
             "display_top_border": true,
             "open": false,
-            "content": "<p>La microbiota es el conjunto de microorganismos que habitan en nuestros intestinos. Al igual que un bosque tropical, la microbiota es un ecosistema complejo que funciona gracias a la interacción equilibrada de todos los microorganismos que la componen. Cuando disminuyen la cantidad y la diversidad de bacterias beneficiosas, la microbiota intestinal puede alterarse. A esto se le denomina disbiosis intestinal.</p><p><strong>K53 Advance en resumen:</strong></p><p>• <strong>Alta diversidad:</strong> 53 cepas bacterianas cuidadosamente seleccionadas.<br/><br/>• <strong>Alta dosis:</strong> más de 500 mil millones de bacterias por envase, el equivalente a más de 25 kg de yogur.<br/><br/>• <strong>Apoya el mantenimiento de una mucosa intestinal sana</strong> gracias a la biotina (vitamina B7) y la niacina (vitamina B3).</p>",
+            "content": "<p>Con Steameo, olvídate de los productos químicos agresivos. Su potente vapor elimina la suciedad más difícil mientras desinfecta en profundidad todas las superficies de tu hogar.</p><p>Ideal para:</p><ul><li><br/>Cocina (grasa, placa, horno)<br/></li><li><br/>Baño (cal, juntas, inodoro)<br/></li><li><br/>Sofás, colchones y textiles<br/></li><li><br/>Ventanas y superficies delicadas<br/></li></ul><p>Un solo dispositivo para limpiar toda tu casa.</p>",
             "page": "",
             "margin_top": 24,
             "margin_bottom": 0
@@ -847,14 +847,14 @@
         "de158e68-5d0d-4819-a625-e2dabdff87d1": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "La ciencia detrás de nuestra fórmula",
+            "heading": "Uso ultra sencillo",
             "heading_size": "medium",
             "icon": "check_box",
             "filled_icon": false,
             "collapse_icon": "carret",
             "display_top_border": true,
             "open": false,
-            "content": "<h1>Un ecosistema complejo</h1><p>La microbiota es el conjunto de todos los microorganismos que habitan en nuestro intestino.</p><p>Al igual que una selva tropical, la microbiota es un ecosistema complejo que solo funciona gracias a la interacción equilibrada de todos los organismos que la componen.</p><h1>Una diversidad única</h1><p>Con K53 Advance, nuestros investigadores han combinado <strong>53 cepas bacterianas cuidadosamente seleccionadas</strong> en una composición única, más que en cualquier otro producto con bacterias conocido en el mercado.</p><p>Cada cepa posee características específicas. Solo a través de una interacción equilibrada entre ellas la fórmula alcanza todo su potencial.</p><h1>Alta dosis</h1><p>Cada cápsula de K53 Advance contiene <strong>más de 20 mil millones de unidades formadoras de colonias (UFC)</strong>.</p><p>Esta dosis elevada está garantizada <strong>hasta la fecha de caducidad</strong>.</p><p>Un envase contiene <strong>más bacterias que las presentes en 25 kg de yogur</strong>.</p><h1>Altos estándares de producción</h1><p>K53 Advance se produce exclusivamente en instalaciones con <strong>certificación GMP</strong>.</p><p>Las normas GMP establecen <strong>altos estándares de calidad y seguridad</strong> en los procesos de fabricación.</p><h1>Estabilidad garantizada</h1><p>Cada cápsula se conserva en un <strong>blíster de aluminio especialmente diseñado</strong> para proteger las cepas bacterianas.</p><p>Esto garantiza que <strong>la diversidad y la dosis total de bacterias se mantengan intactas hasta el momento de su consumo</strong>.</p><p>En otros envases, como los de vidrio o plástico, las bacterias pueden no estar suficientemente protegidas de la humedad.</p><p>Como resultado, muchas bacterias valiosas pueden perderse antes de ser consumidas.</p><h1>Máxima calidad</h1><p>Para garantizar altos estándares de calidad, <strong>cada lote se analiza según 13 parámetros antes de su aprobación</strong>.</p>",
+            "content": "<p></p><ol><li>Llena el depósito con agua<br/></li><li>Enciende el dispositivo<br/></li><li>Espera unos segundos<br/></li><li>Limpia cualquier superficie fácilmente<br/></li></ol><p>Sin complicaciones, sin esfuerzo, sin productos adicionales.</p>",
             "page": "",
             "margin_top": 24,
             "margin_bottom": 0
@@ -896,14 +896,14 @@
         "collapsible_tab_kQjBh7": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "¿Cómo se toma K53 Advance?",
+            "heading": "Características",
             "heading_size": "medium",
             "icon": "check_box",
             "filled_icon": false,
             "collapse_icon": "carret",
             "display_top_border": true,
             "open": false,
-            "content": "<p>Tomar <strong>1 cápsula al día</strong>, sin masticar, con una cantidad suficiente de líquido durante una de las comidas principales.</p><p>En el caso de los niños pequeños, existe riesgo de atragantamiento al ingerir cápsulas. Por ello, se recomienda <strong>abrir la cápsula y mezclar el contenido con líquido</strong> antes de su consumo.</p><p><strong>No contiene gluten, fructosa ni lactosa</strong>, y está <strong>libre de aditivos, conservantes, aromas y edulcorantes.</strong></p>",
+            "content": "<h1>Características</h1><p></p><ul><li>Vapor de alta presión<br/></li><li>Calentamiento rápido<br/></li><li>Diseño compacto y portátil<br/></li><li>Seguro para múltiples superficies<br/></li><li>Depósito de agua integrado<br/></li><li>Uso sin productos químicos</li></ul>",
             "page": "",
             "margin_top": 24,
             "margin_bottom": 0
@@ -912,14 +912,14 @@
         "collapsible_tab_tggUkb": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Envío y garantía de devolución de dinero de 90 días",
+            "heading": "Envío & garantías",
             "heading_size": "medium",
             "icon": "check_box",
             "filled_icon": false,
             "collapse_icon": "carret",
             "display_top_border": true,
             "open": false,
-            "content": "<p>Entrega rápida y segura Todos los pedidos de ENOAA se procesan en un plazo de 24 a 48 horas y se envían con seguimiento. Entrega estándar en el Reino Unido: 2 a 4 días laborables Garantía de devolución de dinero de 90 días Queremos que se sienta seguro al probar ENOAA. Es por eso que cada pedido viene con una Garantía de satisfacción de 90 días. Si no ve una mejora visible en los bordes, las sienes o la salud general del cuero cabelludo dentro de los 90 días, simplemente contáctenos y le reembolsaremos su pedido, sin problemas, sin preguntas. Respaldamos la calidad de nuestra fórmula y los resultados que brinda. Pruebe VEINAA sin riesgos, con total tranquilidad.</p>",
+            "content": "<p><br/><br/>📦 Envío rápido y seguro<br/><br/>🔒 Pago 100% seguro<br/><br/>✅ Garantía de satisfacción de 30 días</p><p>Si no estás satisfecho, te devolvemos el dinero.</p>",
             "page": "",
             "margin_top": 24,
             "margin_bottom": 0
