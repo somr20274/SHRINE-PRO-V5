@@ -82,6 +82,7 @@
       "blocks": {
         "image_slide_gR8CPe": {
           "type": "image_slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/telecharger_10.png",
             "link": "",
@@ -112,6 +113,7 @@
         },
         "image_slide_8mYDr4": {
           "type": "image_slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/telecharger_13.png",
             "link": "",
